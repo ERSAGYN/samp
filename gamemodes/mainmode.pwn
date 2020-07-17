@@ -3,7 +3,14 @@
 //#define FILTERSCRIPT
 
 #include <a_samp>
+#include <streamer>
+#include <sscanf>
+#include <a_actor>
+#include <a_mysql>
+#include <mxdate>
+#include <dc_cmd>
 #include <objects>
+#include <actors>
 
 main()
 {
@@ -18,6 +25,7 @@ public OnGameModeInit()
 	SetGameModeText("Blank Script");
 	AddPlayerClass(0, 1958.3783, 1343.1572, 15.3746, 269.1425, 0, 0, 0, 0, 0, 0);
 	ObjectLoad(); //Загрузка объектов/маппинга
+	ActorLoad(); // Загрузка NPC
 	return 1;
 }
 
