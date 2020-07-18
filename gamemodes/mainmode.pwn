@@ -1,7 +1,3 @@
-// This is a comment
-// uncomment the line below if you want to write a filterscript
-//#define FILTERSCRIPT
-
 #include <a_samp>
 #include <streamer>
 #include <sscanf>
@@ -12,17 +8,39 @@
 #include <objects>
 #include <actors>
 
+#define MYSQL_HOST "localhost"
+#define MYSQL_USER "root"
+#define MYSQL_PASSWORD ""
+#define MYSQL_BASE "asterismroleplay"
+
+enum pInfo
+{
+	pID,
+	pName[MAX_PLAYER_NAME],
+	pPassword[32],
+	pMail[32],
+	pRegDate[10],
+	pRegTime[8],
+	pRegIp[16],
+	pLastDate[10],
+	pLastTime[8],
+	pLastIp[16],
+	
+}
+new playerinfo[MAX_PLAYERS][pInfo];
+new MySQL:dbConnection;
+
 main()
 {
 	print("\n----------------------------------");
-	print(" Blank Gamemode by your name here");
+	print(" Asterism Role Play ");
 	print("----------------------------------\n");
 }
 
 public OnGameModeInit()
 {
-	// Don't use these lines if it's a filterscript
-	SetGameModeText("Blank Script");
+	mysql_connects(); // Соединение с базой данных в стоке
+	SetGameModeText("Asterism Role Play");
 	AddPlayerClass(0, 1958.3783, 1343.1572, 15.3746, 269.1425, 0, 0, 0, 0, 0, 0);
 	ObjectLoad(); //Загрузка объектов/маппинга
 	ActorLoad(); // Загрузка NPC
@@ -31,14 +49,13 @@ public OnGameModeInit()
 
 public OnGameModeExit()
 {
+	mysql_close(dbConnection); // Закрытие соединения с базой данных
 	return 1;
 }
 
 public OnPlayerRequestClass(playerid, classid)
 {
-	SetPlayerPos(playerid, 1958.3783, 1343.1572, 15.3746);
-	SetPlayerCameraPos(playerid, 1958.3783, 1343.1572, 15.3746);
-	SetPlayerCameraLookAt(playerid, 1958.3783, 1343.1572, 15.3746);
+	SetTimerEx("player_load", 350, false, "d", playerid); //Загрузка аккаунта и проверка.Таймер чтобы игрок не зависал
 	return 1;
 }
 
@@ -221,3 +238,20 @@ public OnPlayerClickPlayer(playerid, clickedplayerid, source)
 {
 	return 1;
 }
+//====================================[ FORWARDS AND PUBLICS ]==========================================
+forward player_load(playerid); // Загрузка аккаунта
+public player_load(playerid){
+	GetPlayerName(playerid, playerinfo[playerid][pName], MAX_PLAYER_NAME);
+	return 1;
+}
+//====================================[ STOCKS ]==========================================
+stock mysql_connects()
+{
+	dbConnection = mysql_connect(MYSQL_HOST, MYSQL_USER, MYSQL_PASSWORD, MYSQL_BASE);
+ 	switch(mysql_errno())
+ 	{
+ 	    case 0: print("Подключение к базе данных MYSQL успешно");
+ 	    default: print("Подключение к базе данных MYSQL НЕ успешно");
+ 	}
+}
+//====================================[ COMMANDS ]==========================================
