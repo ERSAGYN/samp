@@ -13,6 +13,12 @@
 #define MYSQL_PASSWORD ""
 #define MYSQL_BASE "asterismroleplay"
 
+#define SCM SendClientMessage
+#define SPD ShowPlayerDialog
+//---------------------------------DIALOG ID's---------------------------------------------
+#define dialogid_registration 0
+#define dialogid_login 1
+
 enum pInfo
 {
 	pID,
@@ -55,6 +61,7 @@ public OnGameModeExit()
 
 public OnPlayerRequestClass(playerid, classid)
 {
+	//Возможно нужно будет перенести на OnPlayerConnect
 	SetTimerEx("player_load", 350, false, "d", playerid); //Загрузка аккаунта и проверка.Таймер чтобы игрок не зависал
 	return 1;
 }
@@ -242,8 +249,14 @@ public OnPlayerClickPlayer(playerid, clickedplayerid, source)
 forward player_load(playerid); // Загрузка аккаунта
 public player_load(playerid){
 	GetPlayerName(playerid, playerinfo[playerid][pName], MAX_PLAYER_NAME);
+	//GetPlayerIp(playerid, playerinfo[playerid][pLastIp], 16);
 	return 1;
 }
+//------------------------------------------KICK----------------------------------------------
+forward player_kick(playerid);
+public player_kick(playerid) return Kick(playerid);
+stock KickEx(playerid) return SetTimerEx("player_kick", 40, false, "d", playerid); //Чтобы перед киком был виден SCM
+//--------------------------------------------------------------------------------------------
 //====================================[ STOCKS ]==========================================
 stock mysql_connects()
 {
@@ -251,7 +264,7 @@ stock mysql_connects()
  	switch(mysql_errno())
  	{
  	    case 0: print("Подключение к базе данных MYSQL успешно");
- 	    default: print("Подключение к базе данных MYSQL НЕ успешно");
+ 	    default: print("Подключение к базе данных MYSQL НЕ успешно или произошла другая ошибка");
  	}
 }
 //====================================[ COMMANDS ]==========================================
