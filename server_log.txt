@@ -346,3 +346,137 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [00:17:06] ----------------------------------
 
 [00:17:06] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:17:15] 
+[21:17:15] Server Plugins
+[21:17:15] --------------
+[21:17:15]  Loading plugin: dc_cmd
+[21:17:15]   Daniel's CMD plugin v2.8
+[21:17:15]     (c) 2014 Daniel_Cortez
+[21:17:15] 	www.pro-pawn.ru
+[21:17:15]   Loaded.
+[21:17:15]  Loading plugin: mysql
+[21:17:16]  >> plugin.mysql: R41-4 successfully loaded.
+[21:17:16]   Loaded.
+[21:17:16]  Loading plugin: sscanf
+[21:17:16] 
+
+[21:17:16]  ===============================
+
+[21:17:16]       sscanf plugin loaded.     
+
+[21:17:16]          Version:  2.8.1        
+
+[21:17:16]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:17:16]  ===============================
+
+[21:17:16]   Loaded.
+[21:17:16]  Loading plugin: streamer
+[21:17:17] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[21:17:17]   Loaded.
+[21:17:17]  Loading plugin: iTD
+[21:17:17] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[21:17:17]   Loaded.
+[21:17:17]  Loading plugin: timerfix
+[21:17:17] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[21:17:17]   Loaded.
+[21:17:17]  Loaded 6 plugins.
+
+[21:17:17] 
+[21:17:17] Filterscripts
+[21:17:17] ---------------
+[21:17:17]   Loading filterscript 'iTDe.amx'...
+[21:17:18] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[21:17:18]   Loaded 1 filterscripts.
+
+[21:17:29] Подключение к базе данных MYSQL НЕ успешно или произошла другая ошибка
+[21:17:29] 
+----------------------------------
+[21:17:29]  Asterism Role Play 
+[21:17:29] ----------------------------------
+
+[21:17:29] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:18:01] 
+[21:18:01] Server Plugins
+[21:18:01] --------------
+[21:18:01]  Loading plugin: dc_cmd
+[21:18:01]   Daniel's CMD plugin v2.8
+[21:18:01]     (c) 2014 Daniel_Cortez
+[21:18:01] 	www.pro-pawn.ru
+[21:18:01]   Loaded.
+[21:18:01]  Loading plugin: mysql
+[21:18:01]  >> plugin.mysql: R41-4 successfully loaded.
+[21:18:01]   Loaded.
+[21:18:01]  Loading plugin: sscanf
+[21:18:01] 
+
+[21:18:01]  ===============================
+
+[21:18:01]       sscanf plugin loaded.     
+
+[21:18:01]          Version:  2.8.1        
+
+[21:18:01]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:18:01]  ===============================
+
+[21:18:01]   Loaded.
+[21:18:01]  Loading plugin: streamer
+[21:18:01] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[21:18:01]   Loaded.
+[21:18:01]  Loading plugin: iTD
+[21:18:01] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[21:18:01]   Loaded.
+[21:18:01]  Loading plugin: timerfix
+[21:18:01] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[21:18:01]   Loaded.
+[21:18:01]  Loaded 6 plugins.
+
+[21:18:01] 
+[21:18:01] Filterscripts
+[21:18:01] ---------------
+[21:18:01]   Loading filterscript 'iTDe.amx'...
+[21:18:01] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[21:18:01]   Loaded 1 filterscripts.
+
+[21:18:02] Подключение к базе данных MYSQL успешно
+[21:18:02] 
+----------------------------------
+[21:18:02]  Asterism Role Play 
+[21:18:02] ----------------------------------
+
+[21:18:02] Number of vehicle models: 0

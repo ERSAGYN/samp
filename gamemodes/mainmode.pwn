@@ -16,14 +16,14 @@
 #define SCM SendClientMessage
 #define SPD ShowPlayerDialog
 //---------------------------------DIALOG ID's---------------------------------------------
-#define dialogid_registration 0
+#define dialogid_register 0
 #define dialogid_login 1
 
 enum pInfo
 {
 	pID,
 	pName[MAX_PLAYER_NAME],
-	pPassword[32],
+	pPassword[17],
 	pMail[32],
 	pRegDate[10],
 	pRegTime[8],
@@ -31,7 +31,7 @@ enum pInfo
 	pLastDate[10],
 	pLastTime[8],
 	pLastIp[16],
-	
+	bool:pLoggedIn,
 }
 new playerinfo[MAX_PLAYERS][pInfo];
 new MySQL:dbConnection;
@@ -61,13 +61,12 @@ public OnGameModeExit()
 
 public OnPlayerRequestClass(playerid, classid)
 {
-	//Возможно нужно будет перенести на OnPlayerConnect
-	SetTimerEx("player_load", 350, false, "d", playerid); //Загрузка аккаунта и проверка.Таймер чтобы игрок не зависал
 	return 1;
 }
 
 public OnPlayerConnect(playerid)
 {
+    SetTimerEx("player_connect", 350, false, "d", playerid); //При подключении аккаунта и проверка.Таймер чтобы игрок не зависал
 	return 1;
 }
 
@@ -246,11 +245,31 @@ public OnPlayerClickPlayer(playerid, clickedplayerid, source)
 	return 1;
 }
 //====================================[ FORWARDS AND PUBLICS ]==========================================
-forward player_load(playerid); // Загрузка аккаунта
-public player_load(playerid){
+forward player_connect(playerid); // При подключении аккаунта
+public player_connect(playerid){
+	new query[68];
+	TogglePlayerSpectating(playerid, 1);
 	GetPlayerName(playerid, playerinfo[playerid][pName], MAX_PLAYER_NAME);
 	//GetPlayerIp(playerid, playerinfo[playerid][pLastIp], 16);
+	mysql_format(dbConnection, query, sizeof(query), "SELECT * FROM `accounts` WHERE `name` = '%s' LIMIT 1",playerinfo[playerid][pName]);
+	mysql_tquery(dbConnection, query, "check_existence", "d", playerid);
 	return 1;
+}
+forward check_existence(playerid);
+public check_existence(playerid) // Проверка на существование аккаунта
+{
+	switch(cache_num_rows())
+	{
+		case 0:
+		{
+			SPD(playerid, dialogid_register, DIALOG_STYLE_INPUT, "Регистрация", "Что-то регистрация", "Далее", "Отмена");
+		}
+		case 1:
+		{
+		    cache_get_value_name(2, "password", playerinfo[playerid][pPassword]);
+		    SPD(playerid, dialogid_login, DIALOG_STYLE_PASSWORD, "Авторизация", "Что то авторизация", "Далее", "Отмена");
+		}
+	}
 }
 //------------------------------------------KICK----------------------------------------------
 forward player_kick(playerid);
