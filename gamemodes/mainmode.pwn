@@ -15,9 +15,18 @@
 
 #define SCM SendClientMessage
 #define SPD ShowPlayerDialog
+
+#define DSM DIALOG_STYLE_MSGBOX
+#define DSI DIALOG_STYLE_INPUT
+#define DSL DIALOG_STYLE_LIST
+#define DSP DIALOG_STYLE_PASSWORD
+#define DST DIALOG_STYLE_TABLIST
+#define DSTH DIALOG_STYLE_TABLIST_HEADERS
 //---------------------------------DIALOG ID's---------------------------------------------
 #define dialogid_register 0
 #define dialogid_login 1
+#define dialogid_invalidpass 101
+#define dialogid_wrongpass 100
 
 enum pInfo
 {
@@ -61,6 +70,7 @@ public OnGameModeExit()
 
 public OnPlayerRequestClass(playerid, classid)
 {
+	spawn_player(playerid);
 	return 1;
 }
 
@@ -237,6 +247,35 @@ public OnVehicleStreamOut(vehicleid, forplayerid)
 
 public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 {
+	new clear_inputtext[128];
+	mysql_escape_string(inputtext, clear_inputtext, sizeof(clear_inputtext));
+	switch(dialogid)
+	{
+		case dialogid_register:
+		{
+		    if(!response) return KickEx(playerid);
+		    if(strlen(clear_inputtext) < 6 || strlen(clear_inputtext) > 16) return SPD(playerid,dialogid_invalidpass,DSM,"Ошибка","Длина пароля должна быть от 6-ти до 16-ти символов","Повтор","Отмена");
+			for(new i = 0; i != strlen(clear_inputtext); i++)// Проверка на символы
+         	{
+                switch(clear_inputtext[i])
+                {
+                	case '0'..'9', 'a'..'z', 'A'..'Z': continue;
+                 	default: return SPD(playerid,dialogid_invalidpass,DSM,"Ошибка","Пароль должен состоять только из латинских символов и/или цифр","Повтор","Отмена");
+                }
+         	}
+         	strmid(playerinfo[playerid][pPassword], clear_inputtext, 0, strlen(clear_inputtext), 17); // Присваивание в playerinfo password, может быть ошибка
+         	printf("Password is %s", playerinfo[playerid][pPassword]); // ИЗМЕНИТЬ УДАЛИТЬ
+		}
+		case dialogid_login:
+		{
+		
+		}
+		case dialogid_invalidpass:
+		{
+			if(response) SPD(playerid, dialogid_register, DSI, "Регистрация", "Что-то регистрация", "Далее", "Отмена");
+			else KickEx(playerid);
+		}
+	}
 	return 1;
 }
 
@@ -285,5 +324,14 @@ stock mysql_connects()
  	    case 0: print("Подключение к базе данных MYSQL успешно");
  	    default: print("Подключение к базе данных MYSQL НЕ успешно или произошла другая ошибка");
  	}
+}
+stock spawn_player(playerid)
+{
+	if(playerinfo[playerid][pLoggedIn])
+	{
+		SetSpawnInfo(playerid, 255, 0, 10, 10, 10, 0, 30, 999, 0, 0, 0, 0); // Изменить на место проживания или проверки на фракцию сделать
+		TogglePlayerSpectating(playerid, 0);
+		SpawnPlayer(playerid);
+	}
 }
 //====================================[ COMMANDS ]==========================================
