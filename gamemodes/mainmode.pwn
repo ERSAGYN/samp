@@ -7,6 +7,7 @@
 #include <dc_cmd>
 #include <objects>
 #include <actors>
+#include <a_mail> //Возможно удалить
 
 #define MYSQL_HOST "localhost"
 #define MYSQL_USER "root"
@@ -25,15 +26,17 @@
 //---------------------------------DIALOG ID's---------------------------------------------
 #define dialogid_register 0
 #define dialogid_login 1
+#define dialogid_email 2
 #define dialogid_invalidpass 101
 #define dialogid_wrongpass 100
+#define dialogid_invalidmail 102
 
 enum pInfo
 {
 	pID,
 	pName[MAX_PLAYER_NAME],
 	pPassword[17],
-	pMail[32],
+	pMail[38],
 	pRegDate[10],
 	pRegTime[8],
 	pRegIp[16],
@@ -59,6 +62,7 @@ public OnGameModeInit()
 	AddPlayerClass(0, 1958.3783, 1343.1572, 15.3746, 269.1425, 0, 0, 0, 0, 0, 0);
 	ObjectLoad(); //Загрузка объектов/маппинга
 	ActorLoad(); // Загрузка NPC
+	//SendMail("gamewhisersa@gmail.com", "ersagyn0@gmail.com", "ERSA", "Здрастье мордасте", "ЗАДРАСТЬЕ МОРАДАСТЬЕ");
 	return 1;
 }
 
@@ -107,6 +111,7 @@ public OnVehicleDeath(vehicleid, killerid)
 
 public OnPlayerText(playerid, text[])
 {
+	if(!playerinfo[playerid][pLoggedIn]) return 0;//В разработке подумоть нужно ИЗМЕНИТЬ
 	return 1;
 }
 
@@ -255,7 +260,7 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 		{
 		    if(!response) return KickEx(playerid);
 		    if(strlen(clear_inputtext) < 6 || strlen(clear_inputtext) > 16) return SPD(playerid,dialogid_invalidpass,DSM,"Ошибка","Длина пароля должна быть от 6-ти до 16-ти символов","Повтор","Отмена");
-			for(new i = 0; i != strlen(clear_inputtext); i++)// Проверка на символы
+			for(new i = 0; i != strlen(clear_inputtext); i++)// Проверка на символы в пароле
          	{
                 switch(clear_inputtext[i])
                 {
@@ -263,16 +268,42 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
                  	default: return SPD(playerid,dialogid_invalidpass,DSM,"Ошибка","Пароль должен состоять только из латинских символов и/или цифр","Повтор","Отмена");
                 }
          	}
-         	strmid(playerinfo[playerid][pPassword], clear_inputtext, 0, strlen(clear_inputtext), 17); // Присваивание в playerinfo password, может быть ошибка
+			strmid(playerinfo[playerid][pPassword], clear_inputtext, 0, strlen(clear_inputtext), 17); // Присваивание в playerinfo password, может быть ошибка
          	printf("Password is %s", playerinfo[playerid][pPassword]); // ИЗМЕНИТЬ УДАЛИТЬ
+         	SPD(playerid, dialogid_email, DSI, "E-mail", "Что-то про e-mail", "Далее", "Отмена");
 		}
 		case dialogid_login:
 		{
 		
 		}
+		case dialogid_email:
+		{
+			if(!response) return KickEx(playerid);
+			if(!strlen(clear_inputtext)) return SPD(playerid, dialogid_invalidmail, DSM, "Ошибка", "Вы не ввели e-mail", "Повтор", "Отмена");
+			new query[90];
+			new mail_symbols_check = 0;
+			for(new i = 0; i != strlen(clear_inputtext); i++)// Проверка на символы почты
+         	{
+                switch(clear_inputtext[i])
+                {
+                	case '0'..'9', 'a'..'z', 'A'..'Z', '-', '_': continue;
+                	case '@': mail_symbols_check++;
+                	case '.': mail_symbols_check++;
+                 	default: return SPD(playerid,dialogid_invalidmail,DSM,"Ошибка","Вы ввели неверный адрес электронной почты!","Повтор","Отмена");
+                }
+         	}
+         	if(mail_symbols_check < 2) return SPD(playerid,dialogid_invalidmail,DSM,"Ошибка","Вы ввели неверный адрес электронной почты!","Повтор","Отмена");
+			mysql_format(dbConnection, query, sizeof(query), "SELECT * FROM `accounts` WHERE `email` = '%s' LIMIT 1", clear_inputtext);
+         	mysql_tquery(dbConnection, query, "check_existence_mail", "ds", playerid, clear_inputtext);
+		}
 		case dialogid_invalidpass:
 		{
 			if(response) SPD(playerid, dialogid_register, DSI, "Регистрация", "Что-то регистрация", "Далее", "Отмена");
+			else KickEx(playerid);
+		}
+		case dialogid_invalidmail:
+		{
+			if(response) SPD(playerid, dialogid_email, DSI, "E-mail", "Что-то про e-mail", "Далее", "Отмена");
 			else KickEx(playerid);
 		}
 	}
@@ -307,6 +338,21 @@ public check_existence(playerid) // Проверка на существование аккаунта
 		{
 		    cache_get_value_name(2, "password", playerinfo[playerid][pPassword]);
 		    SPD(playerid, dialogid_login, DIALOG_STYLE_PASSWORD, "Авторизация", "Что то авторизация", "Далее", "Отмена");
+		}
+	}
+}
+forward check_existence_mail(playerid, clear_inputtext[]);
+public check_existence_mail(playerid, clear_inputtext[])
+{
+	switch(cache_num_rows())
+	{
+		case 0:
+		{
+			strmid(playerinfo[playerid][pMail], clear_inputtext, 0, strlen(clear_inputtext), 38);
+		}
+		case 1:
+		{
+		    SPD(playerid,dialogid_invalidmail,DSM,"Ошибка","Введенный вами адрес электронной почты уже зарегистрирован","Повтор","Отмена");
 		}
 	}
 }
