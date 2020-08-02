@@ -2559,3 +2559,4769 @@ v0.3.7-R2, (C)2005-2015 SA-MP Team
 [19:23:45] [join] Ersa has joined the server (0:127.0.0.1)
 [19:24:01] Password is lergdf
 [19:57:00] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:17:32] 
+[20:17:32] Server Plugins
+[20:17:32] --------------
+[20:17:32]  Loading plugin: dc_cmd
+[20:17:32]   Daniel's CMD plugin v2.8
+[20:17:32]     (c) 2014 Daniel_Cortez
+[20:17:32] 	www.pro-pawn.ru
+[20:17:32]   Loaded.
+[20:17:32]  Loading plugin: mysql
+[20:17:32]  >> plugin.mysql: R41-4 successfully loaded.
+[20:17:32]   Loaded.
+[20:17:32]  Loading plugin: sscanf
+[20:17:32] 
+
+[20:17:32]  ===============================
+
+[20:17:32]       sscanf plugin loaded.     
+
+[20:17:32]          Version:  2.8.1        
+
+[20:17:32]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:17:32]  ===============================
+
+[20:17:32]   Loaded.
+[20:17:32]  Loading plugin: streamer
+[20:17:32] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[20:17:32]   Loaded.
+[20:17:32]  Loading plugin: iTD
+[20:17:32] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[20:17:32]   Loaded.
+[20:17:32]  Loading plugin: timerfix
+[20:17:32] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[20:17:32]   Loaded.
+[20:17:32]  Loaded 6 plugins.
+
+[20:17:32] 
+[20:17:32] Filterscripts
+[20:17:32] ---------------
+[20:17:32]   Loading filterscript 'iTDe.amx'...
+[20:17:32] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[20:17:32]   Loaded 1 filterscripts.
+
+[20:17:32] Подключение к базе данных MYSQL успешно
+[20:17:32] 
+----------------------------------
+[20:17:32]  Asterism Role Play 
+[20:17:32] ----------------------------------
+
+[20:17:32] Number of vehicle models: 0
+[20:17:34] [connection] 127.0.0.1:38354 requests connection cookie.
+[20:17:35] [connection] incoming connection: 127.0.0.1:38354 id: 0
+[20:17:35] [join] Ersa has joined the server (0:127.0.0.1)
+[20:17:40] Password is gfjkjg
+[20:22:17] [part] Ersa has left the server (0:0)
+[20:22:33] [connection] 127.0.0.1:40766 requests connection cookie.
+[20:22:34] [connection] incoming connection: 127.0.0.1:40766 id: 0
+[20:22:35] [join] Ersa has joined the server (0:127.0.0.1)
+[20:22:39] Password is gfdjkgf
+[20:28:08] [connection] 127.0.0.1:42578 requests connection cookie.
+[20:28:09] [connection] incoming connection: 127.0.0.1:42578 id: 1
+[20:28:13] [part] Ersa has left the server (0:0)
+[20:28:17] [connection] incoming connection: 127.0.0.1:42579 id: 0
+[20:28:18] [join] Ersa has joined the server (0:127.0.0.1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:15:18] 
+[19:15:18] Server Plugins
+[19:15:18] --------------
+[19:15:18]  Loading plugin: dc_cmd
+[19:15:18]   Daniel's CMD plugin v2.8
+[19:15:18]     (c) 2014 Daniel_Cortez
+[19:15:18] 	www.pro-pawn.ru
+[19:15:18]   Loaded.
+[19:15:18]  Loading plugin: mysql
+[19:15:19]  >> plugin.mysql: R41-4 successfully loaded.
+[19:15:19]   Loaded.
+[19:15:19]  Loading plugin: sscanf
+[19:15:19] 
+
+[19:15:19]  ===============================
+
+[19:15:19]       sscanf plugin loaded.     
+
+[19:15:19]          Version:  2.8.1        
+
+[19:15:19]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:15:19]  ===============================
+
+[19:15:19]   Loaded.
+[19:15:19]  Loading plugin: streamer
+[19:15:19] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[19:15:19]   Loaded.
+[19:15:19]  Loading plugin: iTD
+[19:15:19] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[19:15:19]   Loaded.
+[19:15:19]  Loading plugin: timerfix
+[19:15:19] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[19:15:19]   Loaded.
+[19:15:19]  Loaded 6 plugins.
+
+[19:15:19] 
+[19:15:19] Filterscripts
+[19:15:19] ---------------
+[19:15:19]   Loading filterscript 'iTDe.amx'...
+[19:15:20] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[19:15:20]   Loaded 1 filterscripts.
+
+[19:15:20] Подключение к базе данных MYSQL успешно
+[19:15:20] 
+----------------------------------
+[19:15:20]  Asterism Role Play 
+[19:15:20] ----------------------------------
+
+[19:15:20] Number of vehicle models: 0
+[19:15:58] [connection] 127.0.0.1:41707 requests connection cookie.
+[19:15:59] [connection] incoming connection: 127.0.0.1:41707 id: 0
+[19:15:59] [join] Ersa has joined the server (0:127.0.0.1)
+[19:16:05] Password is jgfghfj
+[19:16:36] iTD: SelectSkin.itd добавлен в Projects.lst
+[19:23:54] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:24:12] 
+[19:24:12] Server Plugins
+[19:24:12] --------------
+[19:24:12]  Loading plugin: dc_cmd
+[19:24:12]   Daniel's CMD plugin v2.8
+[19:24:12]     (c) 2014 Daniel_Cortez
+[19:24:12] 	www.pro-pawn.ru
+[19:24:12]   Loaded.
+[19:24:12]  Loading plugin: mysql
+[19:24:12]  >> plugin.mysql: R41-4 successfully loaded.
+[19:24:12]   Loaded.
+[19:24:12]  Loading plugin: sscanf
+[19:24:12] 
+
+[19:24:12]  ===============================
+
+[19:24:12]       sscanf plugin loaded.     
+
+[19:24:12]          Version:  2.8.1        
+
+[19:24:12]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:24:12]  ===============================
+
+[19:24:12]   Loaded.
+[19:24:12]  Loading plugin: streamer
+[19:24:12] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[19:24:12]   Loaded.
+[19:24:12]  Loading plugin: iTD
+[19:24:12] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[19:24:12]   Loaded.
+[19:24:12]  Loading plugin: timerfix
+[19:24:12] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[19:24:12]   Loaded.
+[19:24:12]  Loaded 6 plugins.
+
+[19:24:12] 
+[19:24:12] Filterscripts
+[19:24:12] ---------------
+[19:24:12]   Loading filterscript 'iTDe.amx'...
+[19:24:12] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[19:24:12]   Loaded 1 filterscripts.
+
+[19:24:12] Подключение к базе данных MYSQL успешно
+[19:24:12] 
+----------------------------------
+[19:24:12]  Asterism Role Play 
+[19:24:12] ----------------------------------
+
+[19:24:12] Number of vehicle models: 0
+[19:24:16] [connection] 127.0.0.1:31113 requests connection cookie.
+[19:24:17] [connection] incoming connection: 127.0.0.1:31113 id: 0
+[19:24:17] [join] Ersa has joined the server (0:127.0.0.1)
+[19:24:19] Password is gfdgfdk
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[20:28:32] 
+[20:28:32] Server Plugins
+[20:28:32] --------------
+[20:28:32]  Loading plugin: dc_cmd
+[20:28:32]   Daniel's CMD plugin v2.8
+[20:28:32]     (c) 2014 Daniel_Cortez
+[20:28:32] 	www.pro-pawn.ru
+[20:28:32]   Loaded.
+[20:28:32]  Loading plugin: mysql
+[20:28:32]  >> plugin.mysql: R41-4 successfully loaded.
+[20:28:32]   Loaded.
+[20:28:32]  Loading plugin: sscanf
+[20:28:32] 
+
+[20:28:32]  ===============================
+
+[20:28:32]       sscanf plugin loaded.     
+
+[20:28:32]          Version:  2.8.1        
+
+[20:28:32]    (c) 2012 Alex "Y_Less" Cole  
+
+[20:28:32]  ===============================
+
+[20:28:32]   Loaded.
+[20:28:32]  Loading plugin: streamer
+[20:28:32] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[20:28:32]   Loaded.
+[20:28:32]  Loading plugin: iTD
+[20:28:32] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[20:28:32]   Loaded.
+[20:28:32]  Loading plugin: timerfix
+[20:28:32] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[20:28:32]   Loaded.
+[20:28:32]  Loaded 6 plugins.
+
+[20:28:32] 
+[20:28:32] Filterscripts
+[20:28:32] ---------------
+[20:28:32]   Loading filterscript 'iTDe.amx'...
+[20:28:32] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[20:28:32]   Loaded 1 filterscripts.
+
+[20:28:32] Подключение к базе данных MYSQL успешно
+[20:28:32] 
+----------------------------------
+[20:28:32]  Asterism Role Play 
+[20:28:32] ----------------------------------
+
+[20:28:32] Number of vehicle models: 0
+[20:28:47] [connection] 127.0.0.1:7736 requests connection cookie.
+[20:28:48] [connection] incoming connection: 127.0.0.1:7736 id: 0
+[20:28:48] [join] Ersa has joined the server (0:127.0.0.1)
+[20:28:52] Password is fdsfds
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:48:10] 
+[19:48:10] Server Plugins
+[19:48:10] --------------
+[19:48:10]  Loading plugin: dc_cmd
+[19:48:10]   Daniel's CMD plugin v2.8
+[19:48:10]     (c) 2014 Daniel_Cortez
+[19:48:10] 	www.pro-pawn.ru
+[19:48:10]   Loaded.
+[19:48:10]  Loading plugin: mysql
+[19:48:10]  >> plugin.mysql: R41-4 successfully loaded.
+[19:48:10]   Loaded.
+[19:48:10]  Loading plugin: sscanf
+[19:48:10] 
+
+[19:48:10]  ===============================
+
+[19:48:10]       sscanf plugin loaded.     
+
+[19:48:10]          Version:  2.8.1        
+
+[19:48:10]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:48:10]  ===============================
+
+[19:48:10]   Loaded.
+[19:48:10]  Loading plugin: streamer
+[19:48:10] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[19:48:10]   Loaded.
+[19:48:10]  Loading plugin: iTD
+[19:48:10] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[19:48:10]   Loaded.
+[19:48:10]  Loading plugin: timerfix
+[19:48:10] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[19:48:10]   Loaded.
+[19:48:10]  Loaded 6 plugins.
+
+[19:48:10] 
+[19:48:10] Filterscripts
+[19:48:10] ---------------
+[19:48:10]   Loading filterscript 'iTDe.amx'...
+[19:48:11] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[19:48:11]   Loaded 1 filterscripts.
+
+[19:48:11] Подключение к базе данных MYSQL успешно
+[19:48:11] 
+----------------------------------
+[19:48:11]  Asterism Role Play 
+[19:48:11] ----------------------------------
+
+[19:48:11] Number of vehicle models: 0
+[19:48:52] [connection] 127.0.0.1:35864 requests connection cookie.
+[19:48:53] [connection] incoming connection: 127.0.0.1:35864 id: 0
+[19:48:53] [join] Ersa has joined the server (0:127.0.0.1)
+[19:48:56] Password is gjkfdjkj
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:54:36] 
+[19:54:36] Server Plugins
+[19:54:36] --------------
+[19:54:36]  Loading plugin: dc_cmd
+[19:54:36]   Daniel's CMD plugin v2.8
+[19:54:36]     (c) 2014 Daniel_Cortez
+[19:54:36] 	www.pro-pawn.ru
+[19:54:36]   Loaded.
+[19:54:36]  Loading plugin: mysql
+[19:54:36]  >> plugin.mysql: R41-4 successfully loaded.
+[19:54:36]   Loaded.
+[19:54:36]  Loading plugin: sscanf
+[19:54:36] 
+
+[19:54:36]  ===============================
+
+[19:54:36]       sscanf plugin loaded.     
+
+[19:54:36]          Version:  2.8.1        
+
+[19:54:36]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:54:36]  ===============================
+
+[19:54:36]   Loaded.
+[19:54:36]  Loading plugin: streamer
+[19:54:36] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[19:54:36]   Loaded.
+[19:54:36]  Loading plugin: iTD
+[19:54:36] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[19:54:36]   Loaded.
+[19:54:36]  Loading plugin: timerfix
+[19:54:36] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[19:54:36]   Loaded.
+[19:54:36]  Loaded 6 plugins.
+
+[19:54:36] 
+[19:54:36] Filterscripts
+[19:54:36] ---------------
+[19:54:36]   Loading filterscript 'iTDe.amx'...
+[19:54:36] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[19:54:36]   Loaded 1 filterscripts.
+
+[19:54:36] Подключение к базе данных MYSQL успешно
+[19:54:36] 
+----------------------------------
+[19:54:36]  Asterism Role Play 
+[19:54:36] ----------------------------------
+
+[19:54:36] Number of vehicle models: 0
+[19:54:43] [connection] 127.0.0.1:18883 requests connection cookie.
+[19:54:44] [connection] incoming connection: 127.0.0.1:18883 id: 0
+[19:54:54] [connection] incoming connection: 127.0.0.1:18885 id: 0
+[19:55:00] [connection] incoming connection: 127.0.0.1:18886 id: 0
+[19:55:10] [connection] incoming connection: 127.0.0.1:20615 id: 0
+[19:55:10] [join] Ersa has joined the server (0:127.0.0.1)
+[19:55:13] Password is fgdhjhdf
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:56:42] 
+[19:56:42] Server Plugins
+[19:56:42] --------------
+[19:56:42]  Loading plugin: dc_cmd
+[19:56:42]   Daniel's CMD plugin v2.8
+[19:56:42]     (c) 2014 Daniel_Cortez
+[19:56:42] 	www.pro-pawn.ru
+[19:56:42]   Loaded.
+[19:56:42]  Loading plugin: mysql
+[19:56:42]  >> plugin.mysql: R41-4 successfully loaded.
+[19:56:42]   Loaded.
+[19:56:42]  Loading plugin: sscanf
+[19:56:42] 
+
+[19:56:42]  ===============================
+
+[19:56:42]       sscanf plugin loaded.     
+
+[19:56:42]          Version:  2.8.1        
+
+[19:56:42]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:56:42]  ===============================
+
+[19:56:42]   Loaded.
+[19:56:42]  Loading plugin: streamer
+[19:56:42] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[19:56:42]   Loaded.
+[19:56:42]  Loading plugin: iTD
+[19:56:42] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[19:56:42]   Loaded.
+[19:56:42]  Loading plugin: timerfix
+[19:56:42] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[19:56:42]   Loaded.
+[19:56:42]  Loaded 6 plugins.
+
+[19:56:42] 
+[19:56:42] Filterscripts
+[19:56:42] ---------------
+[19:56:42]   Loading filterscript 'iTDe.amx'...
+[19:56:42] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[19:56:42]   Loaded 1 filterscripts.
+
+[19:56:42] Подключение к базе данных MYSQL успешно
+[19:56:42] 
+----------------------------------
+[19:56:42]  Asterism Role Play 
+[19:56:42] ----------------------------------
+
+[19:56:42] Number of vehicle models: 0
+[19:56:46] [connection] 127.0.0.1:19163 requests connection cookie.
+[19:56:47] [connection] incoming connection: 127.0.0.1:19163 id: 0
+[19:56:47] [join] Ersa has joined the server (0:127.0.0.1)
+[19:56:49] Password is dfjghdf
+[21:52:23] [part] Ersa has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:36:31] 
+[17:36:31] Server Plugins
+[17:36:31] --------------
+[17:36:31]  Loading plugin: dc_cmd
+[17:36:31]   Daniel's CMD plugin v2.8
+[17:36:31]     (c) 2014 Daniel_Cortez
+[17:36:31] 	www.pro-pawn.ru
+[17:36:31]   Loaded.
+[17:36:31]  Loading plugin: mysql
+[17:36:31]  >> plugin.mysql: R41-4 successfully loaded.
+[17:36:31]   Loaded.
+[17:36:31]  Loading plugin: sscanf
+[17:36:31] 
+
+[17:36:31]  ===============================
+
+[17:36:31]       sscanf plugin loaded.     
+
+[17:36:31]          Version:  2.8.1        
+
+[17:36:31]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:36:31]  ===============================
+
+[17:36:31]   Loaded.
+[17:36:31]  Loading plugin: streamer
+[17:36:32] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[17:36:32]   Loaded.
+[17:36:32]  Loading plugin: iTD
+[17:36:32] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[17:36:32]   Loaded.
+[17:36:32]  Loading plugin: timerfix
+[17:36:32] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[17:36:32]   Loaded.
+[17:36:32]  Loaded 6 plugins.
+
+[17:36:32] 
+[17:36:32] Filterscripts
+[17:36:32] ---------------
+[17:36:32]   Loading filterscript 'iTDe.amx'...
+[17:36:32] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[17:36:32]   Loaded 1 filterscripts.
+
+[17:36:32] Подключение к базе данных MYSQL успешно
+[17:36:32] 
+----------------------------------
+[17:36:32]  Asterism Role Play 
+[17:36:32] ----------------------------------
+
+[17:36:32] Number of vehicle models: 0
+[17:37:16] [connection] 127.0.0.1:49328 requests connection cookie.
+[17:37:17] [connection] incoming connection: 127.0.0.1:49328 id: 0
+[17:37:17] [join] Ersa has joined the server (0:127.0.0.1)
+[17:37:20] Password is erjfdjg
+[17:39:34] --- Server Shutting Down.
+[17:39:34] [part] Ersa has left the server (0:0)
+[17:39:34]   Daniel's CMD plugin got unloaded
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:39:36] 
+[17:39:36] Server Plugins
+[17:39:36] --------------
+[17:39:36]  Loading plugin: dc_cmd
+[17:39:36]   Daniel's CMD plugin v2.8
+[17:39:36]     (c) 2014 Daniel_Cortez
+[17:39:36] 	www.pro-pawn.ru
+[17:39:36]   Loaded.
+[17:39:36]  Loading plugin: mysql
+[17:39:36]  >> plugin.mysql: R41-4 successfully loaded.
+[17:39:36]   Loaded.
+[17:39:36]  Loading plugin: sscanf
+[17:39:36] 
+
+[17:39:36]  ===============================
+
+[17:39:36]       sscanf plugin loaded.     
+
+[17:39:36]          Version:  2.8.1        
+
+[17:39:36]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:39:36]  ===============================
+
+[17:39:36]   Loaded.
+[17:39:36]  Loading plugin: streamer
+[17:39:36] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[17:39:36]   Loaded.
+[17:39:36]  Loading plugin: iTD
+[17:39:36] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[17:39:36]   Loaded.
+[17:39:36]  Loading plugin: timerfix
+[17:39:36] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[17:39:36]   Loaded.
+[17:39:36]  Loaded 6 plugins.
+
+[17:39:36] 
+[17:39:36] Filterscripts
+[17:39:36] ---------------
+[17:39:36]   Loading filterscript 'iTDe.amx'...
+[17:39:36] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[17:39:36]   Loaded 1 filterscripts.
+
+[17:39:36] Подключение к базе данных MYSQL успешно
+[17:39:36] 
+----------------------------------
+[17:39:36]  Asterism Role Play 
+[17:39:36] ----------------------------------
+
+[17:39:36] Number of vehicle models: 0
+[17:39:39] [connection] 127.0.0.1:53543 requests connection cookie.
+[17:39:40] [connection] incoming connection: 127.0.0.1:53543 id: 0
+[17:39:51] [connection] incoming connection: 127.0.0.1:11753 id: 0
+[17:39:51] [join] Ersa has joined the server (0:127.0.0.1)
+[17:39:53] Password is fjdkjgd
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:09:14] 
+[19:09:14] Server Plugins
+[19:09:14] --------------
+[19:09:14]  Loading plugin: dc_cmd
+[19:09:14]   Daniel's CMD plugin v2.8
+[19:09:14]     (c) 2014 Daniel_Cortez
+[19:09:14] 	www.pro-pawn.ru
+[19:09:14]   Loaded.
+[19:09:14]  Loading plugin: mysql
+[19:09:14]  >> plugin.mysql: R41-4 successfully loaded.
+[19:09:14]   Loaded.
+[19:09:14]  Loading plugin: sscanf
+[19:09:14] 
+
+[19:09:14]  ===============================
+
+[19:09:14]       sscanf plugin loaded.     
+
+[19:09:14]          Version:  2.8.1        
+
+[19:09:14]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:09:14]  ===============================
+
+[19:09:14]   Loaded.
+[19:09:14]  Loading plugin: streamer
+[19:09:14] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[19:09:14]   Loaded.
+[19:09:14]  Loading plugin: iTD
+[19:09:14] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[19:09:14]   Loaded.
+[19:09:14]  Loading plugin: timerfix
+[19:09:14] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[19:09:14]   Loaded.
+[19:09:14]  Loaded 6 plugins.
+
+[19:09:14] 
+[19:09:14] Filterscripts
+[19:09:14] ---------------
+[19:09:14]   Loading filterscript 'iTDe.amx'...
+[19:09:14] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[19:09:14]   Loaded 1 filterscripts.
+
+[19:09:14] Подключение к базе данных MYSQL успешно
+[19:09:14] 
+----------------------------------
+[19:09:14]  Asterism Role Play 
+[19:09:14] ----------------------------------
+
+[19:09:14] Number of vehicle models: 0
+[19:09:14] [connection] 127.0.0.1:20096 requests connection cookie.
+[19:09:15] [connection] incoming connection: 127.0.0.1:20096 id: 0
+[19:09:16] [join] Ersa has joined the server (0:127.0.0.1)
+[19:09:17] Password is kdfgjdf
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:10:41] 
+[19:10:41] Server Plugins
+[19:10:41] --------------
+[19:10:41]  Loading plugin: dc_cmd
+[19:10:41]   Daniel's CMD plugin v2.8
+[19:10:41]     (c) 2014 Daniel_Cortez
+[19:10:41] 	www.pro-pawn.ru
+[19:10:41]   Loaded.
+[19:10:41]  Loading plugin: mysql
+[19:10:41]  >> plugin.mysql: R41-4 successfully loaded.
+[19:10:41]   Loaded.
+[19:10:41]  Loading plugin: sscanf
+[19:10:41] 
+
+[19:10:41]  ===============================
+
+[19:10:41]       sscanf plugin loaded.     
+
+[19:10:41]          Version:  2.8.1        
+
+[19:10:41]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:10:41]  ===============================
+
+[19:10:41]   Loaded.
+[19:10:41]  Loading plugin: streamer
+[19:10:41] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[19:10:41]   Loaded.
+[19:10:41]  Loading plugin: iTD
+[19:10:41] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[19:10:41]   Loaded.
+[19:10:41]  Loading plugin: timerfix
+[19:10:42] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[19:10:42]   Loaded.
+[19:10:42]  Loaded 6 plugins.
+
+[19:10:42] 
+[19:10:42] Filterscripts
+[19:10:42] ---------------
+[19:10:42]   Loading filterscript 'iTDe.amx'...
+[19:10:42] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[19:10:42]   Loaded 1 filterscripts.
+
+[19:10:42] Подключение к базе данных MYSQL успешно
+[19:10:42] 
+----------------------------------
+[19:10:42]  Asterism Role Play 
+[19:10:42] ----------------------------------
+
+[19:10:42] Number of vehicle models: 0
+[19:10:49] [connection] 127.0.0.1:20097 requests connection cookie.
+[19:10:50] [connection] incoming connection: 127.0.0.1:20097 id: 0
+[19:10:51] [join] Ersa has joined the server (0:127.0.0.1)
+[19:10:52] Password is fifdgd
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:11:35] 
+[19:11:35] Server Plugins
+[19:11:35] --------------
+[19:11:35]  Loading plugin: dc_cmd
+[19:11:35]   Daniel's CMD plugin v2.8
+[19:11:35]     (c) 2014 Daniel_Cortez
+[19:11:35] 	www.pro-pawn.ru
+[19:11:35]   Loaded.
+[19:11:35]  Loading plugin: mysql
+[19:11:35]  >> plugin.mysql: R41-4 successfully loaded.
+[19:11:35]   Loaded.
+[19:11:35]  Loading plugin: sscanf
+[19:11:35] 
+
+[19:11:35]  ===============================
+
+[19:11:35]       sscanf plugin loaded.     
+
+[19:11:35]          Version:  2.8.1        
+
+[19:11:35]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:11:35]  ===============================
+
+[19:11:35]   Loaded.
+[19:11:35]  Loading plugin: streamer
+[19:11:35] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[19:11:35]   Loaded.
+[19:11:35]  Loading plugin: iTD
+[19:11:35] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[19:11:35]   Loaded.
+[19:11:35]  Loading plugin: timerfix
+[19:11:35] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[19:11:35]   Loaded.
+[19:11:35]  Loaded 6 plugins.
+
+[19:11:35] 
+[19:11:35] Filterscripts
+[19:11:35] ---------------
+[19:11:35]   Loading filterscript 'iTDe.amx'...
+[19:11:35] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[19:11:35]   Loaded 1 filterscripts.
+
+[19:11:35] Подключение к базе данных MYSQL успешно
+[19:11:35] 
+----------------------------------
+[19:11:35]  Asterism Role Play 
+[19:11:35] ----------------------------------
+
+[19:11:35] Number of vehicle models: 0
+[19:11:39] [connection] 127.0.0.1:17748 requests connection cookie.
+[19:11:40] [connection] incoming connection: 127.0.0.1:17748 id: 0
+[19:11:40] [join] Ersa has joined the server (0:127.0.0.1)
+[19:11:41] Password is kjdlkfj
+[19:15:50] --- Server Shutting Down.
+[19:15:50] [part] Ersa has left the server (0:0)
+[19:15:50]   Daniel's CMD plugin got unloaded
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:15:54] 
+[19:15:54] Server Plugins
+[19:15:54] --------------
+[19:15:54]  Loading plugin: dc_cmd
+[19:15:54]   Daniel's CMD plugin v2.8
+[19:15:54]     (c) 2014 Daniel_Cortez
+[19:15:54] 	www.pro-pawn.ru
+[19:15:54]   Loaded.
+[19:15:54]  Loading plugin: mysql
+[19:15:54]  >> plugin.mysql: R41-4 successfully loaded.
+[19:15:54]   Loaded.
+[19:15:54]  Loading plugin: sscanf
+[19:15:54] 
+
+[19:15:54]  ===============================
+
+[19:15:54]       sscanf plugin loaded.     
+
+[19:15:54]          Version:  2.8.1        
+
+[19:15:54]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:15:54]  ===============================
+
+[19:15:54]   Loaded.
+[19:15:54]  Loading plugin: streamer
+[19:15:54] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[19:15:54]   Loaded.
+[19:15:54]  Loading plugin: iTD
+[19:15:54] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[19:15:54]   Loaded.
+[19:15:54]  Loading plugin: timerfix
+[19:15:54] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[19:15:54]   Loaded.
+[19:15:54]  Loaded 6 plugins.
+
+[19:15:54] 
+[19:15:54] Filterscripts
+[19:15:54] ---------------
+[19:15:54]   Loading filterscript 'iTDe.amx'...
+[19:15:54] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[19:15:54]   Loaded 1 filterscripts.
+
+[19:15:54] Подключение к базе данных MYSQL успешно
+[19:15:54] 
+----------------------------------
+[19:15:54]  Asterism Role Play 
+[19:15:54] ----------------------------------
+
+[19:15:54] Number of vehicle models: 0
+[19:16:03] [connection] 127.0.0.1:16041 requests connection cookie.
+[19:16:04] [connection] incoming connection: 127.0.0.1:16041 id: 0
+[19:16:04] [join] Ersa has joined the server (0:127.0.0.1)
+[19:16:06] Password is dghjfgd
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:19:52] 
+[19:19:52] Server Plugins
+[19:19:52] --------------
+[19:19:52]  Loading plugin: dc_cmd
+[19:19:52]   Daniel's CMD plugin v2.8
+[19:19:52]     (c) 2014 Daniel_Cortez
+[19:19:52] 	www.pro-pawn.ru
+[19:19:52]   Loaded.
+[19:19:52]  Loading plugin: mysql
+[19:19:52]  >> plugin.mysql: R41-4 successfully loaded.
+[19:19:52]   Loaded.
+[19:19:52]  Loading plugin: sscanf
+[19:19:52] 
+
+[19:19:52]  ===============================
+
+[19:19:52]       sscanf plugin loaded.     
+
+[19:19:52]          Version:  2.8.1        
+
+[19:19:52]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:19:52]  ===============================
+
+[19:19:52]   Loaded.
+[19:19:52]  Loading plugin: streamer
+[19:19:52] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[19:19:52]   Loaded.
+[19:19:52]  Loading plugin: iTD
+[19:19:52] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[19:19:52]   Loaded.
+[19:19:52]  Loading plugin: timerfix
+[19:19:52] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[19:19:52]   Loaded.
+[19:19:52]  Loaded 6 plugins.
+
+[19:19:52] 
+[19:19:52] Filterscripts
+[19:19:52] ---------------
+[19:19:52]   Loading filterscript 'iTDe.amx'...
+[19:19:52] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[19:19:52]   Loaded 1 filterscripts.
+
+[19:19:52] Подключение к базе данных MYSQL успешно
+[19:19:52] 
+----------------------------------
+[19:19:52]  Asterism Role Play 
+[19:19:52] ----------------------------------
+
+[19:19:52] Number of vehicle models: 0
+[19:19:56] [connection] 127.0.0.1:53659 requests connection cookie.
+[19:19:57] [connection] incoming connection: 127.0.0.1:53659 id: 0
+[19:20:03] [connection] incoming connection: 127.0.0.1:53660 id: 0
+[19:20:10] [connection] incoming connection: 127.0.0.1:53661 id: 0
+[19:20:10] [join] Ersa has joined the server (0:127.0.0.1)
+[19:20:13] Password is gfdkjgd
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:25:19] 
+[19:25:19] Server Plugins
+[19:25:19] --------------
+[19:25:19]  Loading plugin: dc_cmd
+[19:25:19]   Daniel's CMD plugin v2.8
+[19:25:19]     (c) 2014 Daniel_Cortez
+[19:25:19] 	www.pro-pawn.ru
+[19:25:19]   Loaded.
+[19:25:19]  Loading plugin: mysql
+[19:25:19]  >> plugin.mysql: R41-4 successfully loaded.
+[19:25:19]   Loaded.
+[19:25:19]  Loading plugin: sscanf
+[19:25:19] 
+
+[19:25:19]  ===============================
+
+[19:25:19]       sscanf plugin loaded.     
+
+[19:25:19]          Version:  2.8.1        
+
+[19:25:19]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:25:19]  ===============================
+
+[19:25:19]   Loaded.
+[19:25:19]  Loading plugin: streamer
+[19:25:19] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[19:25:19]   Loaded.
+[19:25:19]  Loading plugin: iTD
+[19:25:19] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[19:25:19]   Loaded.
+[19:25:19]  Loading plugin: timerfix
+[19:25:19] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[19:25:19]   Loaded.
+[19:25:19]  Loaded 6 plugins.
+
+[19:25:19] 
+[19:25:19] Filterscripts
+[19:25:19] ---------------
+[19:25:19]   Loading filterscript 'iTDe.amx'...
+[19:25:19] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[19:25:19]   Loaded 1 filterscripts.
+
+[19:25:19] Подключение к базе данных MYSQL успешно
+[19:25:19] 
+----------------------------------
+[19:25:19]  Asterism Role Play 
+[19:25:19] ----------------------------------
+
+[19:25:19] Number of vehicle models: 0
+[19:25:22] [connection] 127.0.0.1:16607 requests connection cookie.
+[19:25:23] [connection] incoming connection: 127.0.0.1:16607 id: 0
+[19:25:32] [connection] incoming connection: 127.0.0.1:16608 id: 0
+[19:25:32] [join] Ersa has joined the server (0:127.0.0.1)
+[19:25:34] Password is jgkdfjgkdf
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:30:07] 
+[19:30:07] Server Plugins
+[19:30:07] --------------
+[19:30:07]  Loading plugin: dc_cmd
+[19:30:07]   Daniel's CMD plugin v2.8
+[19:30:07]     (c) 2014 Daniel_Cortez
+[19:30:07] 	www.pro-pawn.ru
+[19:30:07]   Loaded.
+[19:30:07]  Loading plugin: mysql
+[19:30:07]  >> plugin.mysql: R41-4 successfully loaded.
+[19:30:07]   Loaded.
+[19:30:07]  Loading plugin: sscanf
+[19:30:07] 
+
+[19:30:07]  ===============================
+
+[19:30:07]       sscanf plugin loaded.     
+
+[19:30:07]          Version:  2.8.1        
+
+[19:30:07]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:30:07]  ===============================
+
+[19:30:07]   Loaded.
+[19:30:07]  Loading plugin: streamer
+[19:30:07] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[19:30:07]   Loaded.
+[19:30:07]  Loading plugin: iTD
+[19:30:07] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[19:30:07]   Loaded.
+[19:30:07]  Loading plugin: timerfix
+[19:30:07] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[19:30:07]   Loaded.
+[19:30:07]  Loaded 6 plugins.
+
+[19:30:07] 
+[19:30:07] Filterscripts
+[19:30:07] ---------------
+[19:30:07]   Loading filterscript 'iTDe.amx'...
+[19:30:07] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[19:30:07]   Loaded 1 filterscripts.
+
+[19:30:07] Подключение к базе данных MYSQL успешно
+[19:30:07] 
+----------------------------------
+[19:30:07]  Asterism Role Play 
+[19:30:07] ----------------------------------
+
+[19:30:07] Number of vehicle models: 0
+[19:30:07] [connection] 127.0.0.1:59781 requests connection cookie.
+[19:30:08] [connection] incoming connection: 127.0.0.1:59781 id: 0
+[19:30:09] [join] Ersa has joined the server (0:127.0.0.1)
+[19:30:10] Password is fgmdlgf
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:33:20] 
+[19:33:20] Server Plugins
+[19:33:20] --------------
+[19:33:20]  Loading plugin: dc_cmd
+[19:33:20]   Daniel's CMD plugin v2.8
+[19:33:20]     (c) 2014 Daniel_Cortez
+[19:33:20] 	www.pro-pawn.ru
+[19:33:20]   Loaded.
+[19:33:20]  Loading plugin: mysql
+[19:33:20]  >> plugin.mysql: R41-4 successfully loaded.
+[19:33:20]   Loaded.
+[19:33:20]  Loading plugin: sscanf
+[19:33:20] 
+
+[19:33:20]  ===============================
+
+[19:33:20]       sscanf plugin loaded.     
+
+[19:33:20]          Version:  2.8.1        
+
+[19:33:20]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:33:20]  ===============================
+
+[19:33:20]   Loaded.
+[19:33:20]  Loading plugin: streamer
+[19:33:20] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[19:33:20]   Loaded.
+[19:33:20]  Loading plugin: iTD
+[19:33:20] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[19:33:20]   Loaded.
+[19:33:20]  Loading plugin: timerfix
+[19:33:20] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[19:33:20]   Loaded.
+[19:33:20]  Loaded 6 plugins.
+
+[19:33:20] 
+[19:33:20] Filterscripts
+[19:33:20] ---------------
+[19:33:20]   Loading filterscript 'iTDe.amx'...
+[19:33:20] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[19:33:20]   Loaded 1 filterscripts.
+
+[19:33:20] Подключение к базе данных MYSQL успешно
+[19:33:20] 
+----------------------------------
+[19:33:20]  Asterism Role Play 
+[19:33:20] ----------------------------------
+
+[19:33:20] Number of vehicle models: 0
+[19:33:23] [connection] 127.0.0.1:50423 requests connection cookie.
+[19:33:24] [connection] incoming connection: 127.0.0.1:50423 id: 0
+[19:33:27] [connection] incoming connection: 127.0.0.1:50426 id: 0
+[19:33:27] [join] Ersa has joined the server (0:127.0.0.1)
+[19:33:30] Password is dfgkdjfg
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:33:58] 
+[19:33:58] Server Plugins
+[19:33:58] --------------
+[19:33:58]  Loading plugin: dc_cmd
+[19:33:58]   Daniel's CMD plugin v2.8
+[19:33:58]     (c) 2014 Daniel_Cortez
+[19:33:58] 	www.pro-pawn.ru
+[19:33:58]   Loaded.
+[19:33:58]  Loading plugin: mysql
+[19:33:58]  >> plugin.mysql: R41-4 successfully loaded.
+[19:33:58]   Loaded.
+[19:33:58]  Loading plugin: sscanf
+[19:33:58] 
+
+[19:33:58]  ===============================
+
+[19:33:58]       sscanf plugin loaded.     
+
+[19:33:58]          Version:  2.8.1        
+
+[19:33:58]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:33:58]  ===============================
+
+[19:33:58]   Loaded.
+[19:33:58]  Loading plugin: streamer
+[19:33:58] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[19:33:58]   Loaded.
+[19:33:58]  Loading plugin: iTD
+[19:33:58] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[19:33:58]   Loaded.
+[19:33:58]  Loading plugin: timerfix
+[19:33:58] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[19:33:58]   Loaded.
+[19:33:58]  Loaded 6 plugins.
+
+[19:33:58] 
+[19:33:58] Filterscripts
+[19:33:58] ---------------
+[19:33:58]   Loading filterscript 'iTDe.amx'...
+[19:33:58] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[19:33:58]   Loaded 1 filterscripts.
+
+[19:33:58] Подключение к базе данных MYSQL успешно
+[19:33:58] 
+----------------------------------
+[19:33:58]  Asterism Role Play 
+[19:33:58] ----------------------------------
+
+[19:33:58] Number of vehicle models: 0
+[19:34:01] [connection] 127.0.0.1:50444 requests connection cookie.
+[19:34:02] [connection] incoming connection: 127.0.0.1:50444 id: 0
+[19:34:02] [join] Ersa has joined the server (0:127.0.0.1)
+[19:34:03] Password is fgdlgkjf
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:35:41] 
+[19:35:41] Server Plugins
+[19:35:41] --------------
+[19:35:41]  Loading plugin: dc_cmd
+[19:35:41]   Daniel's CMD plugin v2.8
+[19:35:41]     (c) 2014 Daniel_Cortez
+[19:35:41] 	www.pro-pawn.ru
+[19:35:41]   Loaded.
+[19:35:41]  Loading plugin: mysql
+[19:35:41]  >> plugin.mysql: R41-4 successfully loaded.
+[19:35:41]   Loaded.
+[19:35:41]  Loading plugin: sscanf
+[19:35:41] 
+
+[19:35:41]  ===============================
+
+[19:35:41]       sscanf plugin loaded.     
+
+[19:35:41]          Version:  2.8.1        
+
+[19:35:41]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:35:41]  ===============================
+
+[19:35:41]   Loaded.
+[19:35:41]  Loading plugin: streamer
+[19:35:41] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[19:35:41]   Loaded.
+[19:35:41]  Loading plugin: iTD
+[19:35:41] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[19:35:41]   Loaded.
+[19:35:41]  Loading plugin: timerfix
+[19:35:41] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[19:35:41]   Loaded.
+[19:35:41]  Loaded 6 plugins.
+
+[19:35:41] 
+[19:35:41] Filterscripts
+[19:35:41] ---------------
+[19:35:41]   Loading filterscript 'iTDe.amx'...
+[19:35:41] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[19:35:41]   Loaded 1 filterscripts.
+
+[19:35:41] Подключение к базе данных MYSQL успешно
+[19:35:41] 
+----------------------------------
+[19:35:41]  Asterism Role Play 
+[19:35:41] ----------------------------------
+
+[19:35:41] Number of vehicle models: 0
+[19:35:44] [connection] 127.0.0.1:6964 requests connection cookie.
+[19:35:45] [connection] incoming connection: 127.0.0.1:6964 id: 0
+[19:35:55] [connection] incoming connection: 127.0.0.1:34363 id: 0
+[19:35:58] [connection] incoming connection: 127.0.0.1:34366 id: 0
+[19:35:59] [join] Ersa has joined the server (0:127.0.0.1)
+[19:36:02] Password is gfdlkg
+[19:43:43] [connection] 127.0.0.1:8068 requests connection cookie.
+[19:43:44] [connection] incoming connection: 127.0.0.1:8068 id: 1
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:43:48] 
+[19:43:48] Server Plugins
+[19:43:48] --------------
+[19:43:48]  Loading plugin: dc_cmd
+[19:43:48]   Daniel's CMD plugin v2.8
+[19:43:48]     (c) 2014 Daniel_Cortez
+[19:43:48] 	www.pro-pawn.ru
+[19:43:48]   Loaded.
+[19:43:48]  Loading plugin: mysql
+[19:43:48]  >> plugin.mysql: R41-4 successfully loaded.
+[19:43:48]   Loaded.
+[19:43:48]  Loading plugin: sscanf
+[19:43:48] 
+
+[19:43:48]  ===============================
+
+[19:43:48]       sscanf plugin loaded.     
+
+[19:43:48]          Version:  2.8.1        
+
+[19:43:48]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:43:48]  ===============================
+
+[19:43:48]   Loaded.
+[19:43:48]  Loading plugin: streamer
+[19:43:48] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[19:43:48]   Loaded.
+[19:43:48]  Loading plugin: iTD
+[19:43:48] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[19:43:48]   Loaded.
+[19:43:48]  Loading plugin: timerfix
+[19:43:48] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[19:43:48]   Loaded.
+[19:43:48]  Loaded 6 plugins.
+
+[19:43:48] 
+[19:43:48] Filterscripts
+[19:43:48] ---------------
+[19:43:48]   Loading filterscript 'iTDe.amx'...
+[19:43:48] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[19:43:48]   Loaded 1 filterscripts.
+
+[19:43:48] Подключение к базе данных MYSQL успешно
+[19:43:48] 
+----------------------------------
+[19:43:48]  Asterism Role Play 
+[19:43:48] ----------------------------------
+
+[19:43:48] Number of vehicle models: 0
+[19:43:54] [connection] 127.0.0.1:8069 requests connection cookie.
+[19:43:55] [connection] incoming connection: 127.0.0.1:8069 id: 0
+[19:43:56] [join] Ersa has joined the server (0:127.0.0.1)
+[19:43:59] Password is fdkdfj
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:46:24] 
+[19:46:24] Server Plugins
+[19:46:24] --------------
+[19:46:24]  Loading plugin: dc_cmd
+[19:46:24]   Daniel's CMD plugin v2.8
+[19:46:24]     (c) 2014 Daniel_Cortez
+[19:46:24] 	www.pro-pawn.ru
+[19:46:24]   Loaded.
+[19:46:24]  Loading plugin: mysql
+[19:46:24]  >> plugin.mysql: R41-4 successfully loaded.
+[19:46:24]   Loaded.
+[19:46:24]  Loading plugin: sscanf
+[19:46:24] 
+
+[19:46:24]  ===============================
+
+[19:46:24]       sscanf plugin loaded.     
+
+[19:46:24]          Version:  2.8.1        
+
+[19:46:24]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:46:24]  ===============================
+
+[19:46:24]   Loaded.
+[19:46:24]  Loading plugin: streamer
+[19:46:24] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[19:46:24]   Loaded.
+[19:46:24]  Loading plugin: iTD
+[19:46:24] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[19:46:24]   Loaded.
+[19:46:24]  Loading plugin: timerfix
+[19:46:24] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[19:46:24]   Loaded.
+[19:46:24]  Loaded 6 plugins.
+
+[19:46:24] 
+[19:46:24] Filterscripts
+[19:46:24] ---------------
+[19:46:24]   Loading filterscript 'iTDe.amx'...
+[19:46:24] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[19:46:24]   Loaded 1 filterscripts.
+
+[19:46:24] Подключение к базе данных MYSQL успешно
+[19:46:24] 
+----------------------------------
+[19:46:24]  Asterism Role Play 
+[19:46:24] ----------------------------------
+
+[19:46:24] Number of vehicle models: 0
+[19:46:31] [connection] 127.0.0.1:59885 requests connection cookie.
+[19:46:32] [connection] incoming connection: 127.0.0.1:59885 id: 0
+[19:46:32] [join] Ersa has joined the server (0:127.0.0.1)
+[19:46:34] Password is fdsfkds
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[19:50:22] 
+[19:50:22] Server Plugins
+[19:50:22] --------------
+[19:50:22]  Loading plugin: dc_cmd
+[19:50:22]   Daniel's CMD plugin v2.8
+[19:50:22]     (c) 2014 Daniel_Cortez
+[19:50:22] 	www.pro-pawn.ru
+[19:50:22]   Loaded.
+[19:50:22]  Loading plugin: mysql
+[19:50:22]  >> plugin.mysql: R41-4 successfully loaded.
+[19:50:22]   Loaded.
+[19:50:22]  Loading plugin: sscanf
+[19:50:22] 
+
+[19:50:22]  ===============================
+
+[19:50:22]       sscanf plugin loaded.     
+
+[19:50:22]          Version:  2.8.1        
+
+[19:50:22]    (c) 2012 Alex "Y_Less" Cole  
+
+[19:50:22]  ===============================
+
+[19:50:22]   Loaded.
+[19:50:22]  Loading plugin: streamer
+[19:50:22] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[19:50:22]   Loaded.
+[19:50:22]  Loading plugin: iTD
+[19:50:22] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[19:50:22]   Loaded.
+[19:50:22]  Loading plugin: timerfix
+[19:50:22] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[19:50:22]   Loaded.
+[19:50:22]  Loaded 6 plugins.
+
+[19:50:22] 
+[19:50:22] Filterscripts
+[19:50:22] ---------------
+[19:50:22]   Loading filterscript 'iTDe.amx'...
+[19:50:22] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[19:50:22]   Loaded 1 filterscripts.
+
+[19:50:22] Подключение к базе данных MYSQL успешно
+[19:50:22] 
+----------------------------------
+[19:50:22]  Asterism Role Play 
+[19:50:22] ----------------------------------
+
+[19:50:22] Number of vehicle models: 0
+[19:50:26] [connection] 127.0.0.1:47753 requests connection cookie.
+[19:50:27] [connection] incoming connection: 127.0.0.1:47753 id: 0
+[19:50:27] [join] Ersa has joined the server (0:127.0.0.1)
+[19:50:28] Password is sdfmksdfm
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:22:20] 
+[21:22:20] Server Plugins
+[21:22:20] --------------
+[21:22:20]  Loading plugin: dc_cmd
+[21:22:20]   Daniel's CMD plugin v2.8
+[21:22:20]     (c) 2014 Daniel_Cortez
+[21:22:20] 	www.pro-pawn.ru
+[21:22:20]   Loaded.
+[21:22:20]  Loading plugin: mysql
+[21:22:21]  >> plugin.mysql: R41-4 successfully loaded.
+[21:22:21]   Loaded.
+[21:22:21]  Loading plugin: sscanf
+[21:22:21] 
+
+[21:22:21]  ===============================
+
+[21:22:21]       sscanf plugin loaded.     
+
+[21:22:21]          Version:  2.8.1        
+
+[21:22:21]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:22:21]  ===============================
+
+[21:22:21]   Loaded.
+[21:22:21]  Loading plugin: streamer
+[21:22:21] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[21:22:21]   Loaded.
+[21:22:21]  Loading plugin: iTD
+[21:22:21] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[21:22:21]   Loaded.
+[21:22:21]  Loading plugin: timerfix
+[21:22:21] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[21:22:21]   Loaded.
+[21:22:21]  Loaded 6 plugins.
+
+[21:22:21] 
+[21:22:21] Filterscripts
+[21:22:21] ---------------
+[21:22:21]   Loading filterscript 'iTDe.amx'...
+[21:22:22] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[21:22:22]   Loaded 1 filterscripts.
+
+[21:22:22] Подключение к базе данных MYSQL успешно
+[21:22:22] 
+----------------------------------
+[21:22:22]  Asterism Role Play 
+[21:22:22] ----------------------------------
+
+[21:22:22] Number of vehicle models: 0
+[21:23:33] [connection] 127.0.0.1:33001 requests connection cookie.
+[21:23:34] [connection] incoming connection: 127.0.0.1:33001 id: 0
+[21:23:34] [join] Ersa has joined the server (0:127.0.0.1)
+[21:24:15] [connection] incoming connection: 127.0.0.1:47708 id: 1
+[21:24:32] [part] Ersa has left the server (0:0)
+[21:24:50] [connection] incoming connection: 127.0.0.1:47712 id: 0
+[21:24:50] [join] Ersa has joined the server (0:127.0.0.1)
+[21:25:16] Password is fgdkjgdf
+[21:26:19] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:26:21] 
+[21:26:21] Server Plugins
+[21:26:21] --------------
+[21:26:21]  Loading plugin: dc_cmd
+[21:26:21]   Daniel's CMD plugin v2.8
+[21:26:21]     (c) 2014 Daniel_Cortez
+[21:26:21] 	www.pro-pawn.ru
+[21:26:21]   Loaded.
+[21:26:21]  Loading plugin: mysql
+[21:26:21]  >> plugin.mysql: R41-4 successfully loaded.
+[21:26:21]   Loaded.
+[21:26:21]  Loading plugin: sscanf
+[21:26:21] 
+
+[21:26:21]  ===============================
+
+[21:26:21]       sscanf plugin loaded.     
+
+[21:26:21]          Version:  2.8.1        
+
+[21:26:21]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:26:21]  ===============================
+
+[21:26:21]   Loaded.
+[21:26:21]  Loading plugin: streamer
+[21:26:21] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[21:26:21]   Loaded.
+[21:26:21]  Loading plugin: iTD
+[21:26:21] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[21:26:21]   Loaded.
+[21:26:21]  Loading plugin: timerfix
+[21:26:21] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[21:26:21]   Loaded.
+[21:26:21]  Loaded 6 plugins.
+
+[21:26:21] 
+[21:26:21] Filterscripts
+[21:26:21] ---------------
+[21:26:21]   Loading filterscript 'iTDe.amx'...
+[21:26:21] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[21:26:21]   Loaded 1 filterscripts.
+
+[21:26:21] Подключение к базе данных MYSQL успешно
+[21:26:21] 
+----------------------------------
+[21:26:21]  Asterism Role Play 
+[21:26:21] ----------------------------------
+
+[21:26:21] Number of vehicle models: 0
+[21:26:25] [connection] 127.0.0.1:4480 requests connection cookie.
+[21:26:26] [connection] incoming connection: 127.0.0.1:4480 id: 0
+[21:26:26] [join] Ersa has joined the server (0:127.0.0.1)
+[21:26:28] Password is dfgjkdfjd
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:27:15] 
+[21:27:15] Server Plugins
+[21:27:15] --------------
+[21:27:15]  Loading plugin: dc_cmd
+[21:27:15]   Daniel's CMD plugin v2.8
+[21:27:15]     (c) 2014 Daniel_Cortez
+[21:27:15] 	www.pro-pawn.ru
+[21:27:15]   Loaded.
+[21:27:15]  Loading plugin: mysql
+[21:27:15]  >> plugin.mysql: R41-4 successfully loaded.
+[21:27:15]   Loaded.
+[21:27:15]  Loading plugin: sscanf
+[21:27:15] 
+
+[21:27:15]  ===============================
+
+[21:27:15]       sscanf plugin loaded.     
+
+[21:27:15]          Version:  2.8.1        
+
+[21:27:15]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:27:15]  ===============================
+
+[21:27:15]   Loaded.
+[21:27:15]  Loading plugin: streamer
+[21:27:15] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[21:27:15]   Loaded.
+[21:27:15]  Loading plugin: iTD
+[21:27:15] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[21:27:15]   Loaded.
+[21:27:15]  Loading plugin: timerfix
+[21:27:15] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[21:27:15]   Loaded.
+[21:27:15]  Loaded 6 plugins.
+
+[21:27:15] 
+[21:27:15] Filterscripts
+[21:27:15] ---------------
+[21:27:15]   Loading filterscript 'iTDe.amx'...
+[21:27:15] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[21:27:15]   Loaded 1 filterscripts.
+
+[21:27:15] Подключение к базе данных MYSQL успешно
+[21:27:15] 
+----------------------------------
+[21:27:15]  Asterism Role Play 
+[21:27:15] ----------------------------------
+
+[21:27:15] Number of vehicle models: 0
+[21:27:18] [connection] 127.0.0.1:35746 requests connection cookie.
+[21:27:19] [connection] incoming connection: 127.0.0.1:35746 id: 0
+[21:27:19] [join] Ersa has joined the server (0:127.0.0.1)
+[21:27:21] Password is dfjgkdfgdf
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:27:31] 
+[21:27:31] Server Plugins
+[21:27:31] --------------
+[21:27:31]  Loading plugin: dc_cmd
+[21:27:31]   Daniel's CMD plugin v2.8
+[21:27:31]     (c) 2014 Daniel_Cortez
+[21:27:31] 	www.pro-pawn.ru
+[21:27:31]   Loaded.
+[21:27:31]  Loading plugin: mysql
+[21:27:31]  >> plugin.mysql: R41-4 successfully loaded.
+[21:27:31]   Loaded.
+[21:27:31]  Loading plugin: sscanf
+[21:27:31] 
+
+[21:27:31]  ===============================
+
+[21:27:31]       sscanf plugin loaded.     
+
+[21:27:31]          Version:  2.8.1        
+
+[21:27:31]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:27:31]  ===============================
+
+[21:27:31]   Loaded.
+[21:27:31]  Loading plugin: streamer
+[21:27:31] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[21:27:31]   Loaded.
+[21:27:31]  Loading plugin: iTD
+[21:27:31] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[21:27:31]   Loaded.
+[21:27:31]  Loading plugin: timerfix
+[21:27:31] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[21:27:31]   Loaded.
+[21:27:31]  Loaded 6 plugins.
+
+[21:27:31] 
+[21:27:31] Filterscripts
+[21:27:31] ---------------
+[21:27:31]   Loading filterscript 'iTDe.amx'...
+[21:27:31] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[21:27:31]   Loaded 1 filterscripts.
+
+[21:27:31] Подключение к базе данных MYSQL успешно
+[21:27:31] 
+----------------------------------
+[21:27:31]  Asterism Role Play 
+[21:27:31] ----------------------------------
+
+[21:27:31] Number of vehicle models: 0
+[21:27:34] [connection] 127.0.0.1:56841 requests connection cookie.
+[21:27:35] [connection] incoming connection: 127.0.0.1:56841 id: 0
+[21:27:35] [join] Ersa has joined the server (0:127.0.0.1)
+[21:27:37] Password is gfhjfk
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:44:32] 
+[21:44:32] Server Plugins
+[21:44:32] --------------
+[21:44:32]  Loading plugin: dc_cmd
+[21:44:32]   Daniel's CMD plugin v2.8
+[21:44:32]     (c) 2014 Daniel_Cortez
+[21:44:32] 	www.pro-pawn.ru
+[21:44:32]   Loaded.
+[21:44:32]  Loading plugin: mysql
+[21:44:32]  >> plugin.mysql: R41-4 successfully loaded.
+[21:44:32]   Loaded.
+[21:44:32]  Loading plugin: sscanf
+[21:44:32] 
+
+[21:44:32]  ===============================
+
+[21:44:32]       sscanf plugin loaded.     
+
+[21:44:32]          Version:  2.8.1        
+
+[21:44:32]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:44:32]  ===============================
+
+[21:44:32]   Loaded.
+[21:44:32]  Loading plugin: streamer
+[21:44:32] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[21:44:32]   Loaded.
+[21:44:32]  Loading plugin: iTD
+[21:44:32] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[21:44:32]   Loaded.
+[21:44:32]  Loading plugin: timerfix
+[21:44:32] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[21:44:32]   Loaded.
+[21:44:32]  Loaded 6 plugins.
+
+[21:44:32] 
+[21:44:32] Filterscripts
+[21:44:32] ---------------
+[21:44:32]   Loading filterscript 'iTDe.amx'...
+[21:44:32] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[21:44:32]   Loaded 1 filterscripts.
+
+[21:44:32] Подключение к базе данных MYSQL успешно
+[21:44:32] 
+----------------------------------
+[21:44:32]  Asterism Role Play 
+[21:44:32] ----------------------------------
+
+[21:44:32] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:44:40] 
+[21:44:40] Server Plugins
+[21:44:40] --------------
+[21:44:40]  Loading plugin: dc_cmd
+[21:44:40]   Daniel's CMD plugin v2.8
+[21:44:40]     (c) 2014 Daniel_Cortez
+[21:44:40] 	www.pro-pawn.ru
+[21:44:40]   Loaded.
+[21:44:40]  Loading plugin: mysql
+[21:44:40]  >> plugin.mysql: R41-4 successfully loaded.
+[21:44:40]   Loaded.
+[21:44:40]  Loading plugin: sscanf
+[21:44:40] 
+
+[21:44:40]  ===============================
+
+[21:44:40]       sscanf plugin loaded.     
+
+[21:44:40]          Version:  2.8.1        
+
+[21:44:40]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:44:40]  ===============================
+
+[21:44:40]   Loaded.
+[21:44:40]  Loading plugin: streamer
+[21:44:40] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[21:44:40]   Loaded.
+[21:44:40]  Loading plugin: iTD
+[21:44:40] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[21:44:40]   Loaded.
+[21:44:40]  Loading plugin: timerfix
+[21:44:40] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[21:44:40]   Loaded.
+[21:44:40]  Loaded 6 plugins.
+
+[21:44:40] 
+[21:44:40] Filterscripts
+[21:44:40] ---------------
+[21:44:40]   Loading filterscript 'iTDe.amx'...
+[21:44:40] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[21:44:40]   Loaded 1 filterscripts.
+
+[21:44:40] Подключение к базе данных MYSQL успешно
+[21:44:40] 
+----------------------------------
+[21:44:40]  Asterism Role Play 
+[21:44:40] ----------------------------------
+
+[21:44:40] Number of vehicle models: 0
+[21:44:43] [connection] 127.0.0.1:21391 requests connection cookie.
+[21:44:44] [connection] incoming connection: 127.0.0.1:21391 id: 0
+[21:44:44] [join] Ersa has joined the server (0:127.0.0.1)
+[21:44:47] Password is dfsgjd
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:54:34] 
+[21:54:34] Server Plugins
+[21:54:34] --------------
+[21:54:34]  Loading plugin: dc_cmd
+[21:54:34]   Daniel's CMD plugin v2.8
+[21:54:34]     (c) 2014 Daniel_Cortez
+[21:54:34] 	www.pro-pawn.ru
+[21:54:34]   Loaded.
+[21:54:34]  Loading plugin: mysql
+[21:54:34]  >> plugin.mysql: R41-4 successfully loaded.
+[21:54:34]   Loaded.
+[21:54:34]  Loading plugin: sscanf
+[21:54:34] 
+
+[21:54:34]  ===============================
+
+[21:54:34]       sscanf plugin loaded.     
+
+[21:54:34]          Version:  2.8.1        
+
+[21:54:34]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:54:34]  ===============================
+
+[21:54:34]   Loaded.
+[21:54:34]  Loading plugin: streamer
+[21:54:34] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[21:54:34]   Loaded.
+[21:54:34]  Loading plugin: iTD
+[21:54:34] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[21:54:34]   Loaded.
+[21:54:34]  Loading plugin: timerfix
+[21:54:34] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[21:54:34]   Loaded.
+[21:54:34]  Loaded 6 plugins.
+
+[21:54:34] 
+[21:54:34] Filterscripts
+[21:54:34] ---------------
+[21:54:34]   Loading filterscript 'iTDe.amx'...
+[21:54:34] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[21:54:34]   Loaded 1 filterscripts.
+
+[21:54:34] Подключение к базе данных MYSQL успешно
+[21:54:34] 
+----------------------------------
+[21:54:34]  Asterism Role Play 
+[21:54:34] ----------------------------------
+
+[21:54:34] Number of vehicle models: 0
+[21:54:38] [connection] 127.0.0.1:57436 requests connection cookie.
+[21:54:39] [connection] incoming connection: 127.0.0.1:57436 id: 0
+[21:54:49] [connection] incoming connection: 127.0.0.1:57443 id: 0
+[21:54:50] [join] Ersa has joined the server (0:127.0.0.1)
+[21:54:51] Password is frgdfkkd
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:57:14] 
+[21:57:14] Server Plugins
+[21:57:14] --------------
+[21:57:14]  Loading plugin: dc_cmd
+[21:57:14]   Daniel's CMD plugin v2.8
+[21:57:14]     (c) 2014 Daniel_Cortez
+[21:57:14] 	www.pro-pawn.ru
+[21:57:14]   Loaded.
+[21:57:14]  Loading plugin: mysql
+[21:57:14]  >> plugin.mysql: R41-4 successfully loaded.
+[21:57:14]   Loaded.
+[21:57:14]  Loading plugin: sscanf
+[21:57:14] 
+
+[21:57:14]  ===============================
+
+[21:57:14]       sscanf plugin loaded.     
+
+[21:57:14]          Version:  2.8.1        
+
+[21:57:14]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:57:14]  ===============================
+
+[21:57:14]   Loaded.
+[21:57:14]  Loading plugin: streamer
+[21:57:14] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[21:57:14]   Loaded.
+[21:57:14]  Loading plugin: iTD
+[21:57:14] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[21:57:14]   Loaded.
+[21:57:14]  Loading plugin: timerfix
+[21:57:14] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[21:57:14]   Loaded.
+[21:57:14]  Loaded 6 plugins.
+
+[21:57:14] 
+[21:57:14] Filterscripts
+[21:57:14] ---------------
+[21:57:14]   Loading filterscript 'iTDe.amx'...
+[21:57:14] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[21:57:14]   Loaded 1 filterscripts.
+
+[21:57:14] Подключение к базе данных MYSQL успешно
+[21:57:14] 
+----------------------------------
+[21:57:14]  Asterism Role Play 
+[21:57:14] ----------------------------------
+
+[21:57:14] Number of vehicle models: 0
+[21:57:16] [connection] 127.0.0.1:12233 requests connection cookie.
+[21:57:17] [connection] incoming connection: 127.0.0.1:12233 id: 0
+[21:57:28] [connection] incoming connection: 127.0.0.1:54476 id: 0
+[21:57:28] [join] Ersa has joined the server (0:127.0.0.1)
+[21:57:30] Password is fgdgjkdf
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:58:07] 
+[21:58:07] Server Plugins
+[21:58:07] --------------
+[21:58:07]  Loading plugin: dc_cmd
+[21:58:07]   Daniel's CMD plugin v2.8
+[21:58:07]     (c) 2014 Daniel_Cortez
+[21:58:07] 	www.pro-pawn.ru
+[21:58:07]   Loaded.
+[21:58:07]  Loading plugin: mysql
+[21:58:07]  >> plugin.mysql: R41-4 successfully loaded.
+[21:58:07]   Loaded.
+[21:58:07]  Loading plugin: sscanf
+[21:58:07] 
+
+[21:58:07]  ===============================
+
+[21:58:07]       sscanf plugin loaded.     
+
+[21:58:07]          Version:  2.8.1        
+
+[21:58:07]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:58:07]  ===============================
+
+[21:58:07]   Loaded.
+[21:58:07]  Loading plugin: streamer
+[21:58:07] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[21:58:07]   Loaded.
+[21:58:07]  Loading plugin: iTD
+[21:58:07] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[21:58:07]   Loaded.
+[21:58:07]  Loading plugin: timerfix
+[21:58:07] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[21:58:07]   Loaded.
+[21:58:07]  Loaded 6 plugins.
+
+[21:58:07] 
+[21:58:07] Filterscripts
+[21:58:07] ---------------
+[21:58:07]   Loading filterscript 'iTDe.amx'...
+[21:58:07] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[21:58:07]   Loaded 1 filterscripts.
+
+[21:58:07] Подключение к базе данных MYSQL успешно
+[21:58:07] 
+----------------------------------
+[21:58:07]  Asterism Role Play 
+[21:58:07] ----------------------------------
+
+[21:58:07] Number of vehicle models: 0
+[21:58:10] [connection] 127.0.0.1:44004 requests connection cookie.
+[21:58:11] [connection] incoming connection: 127.0.0.1:44004 id: 0
+[21:58:21] [connection] incoming connection: 127.0.0.1:44005 id: 0
+[21:58:21] [join] Ersa has joined the server (0:127.0.0.1)
+[21:58:26] Password is fgklfdjl
+[22:12:32] [part] Ersa has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[17:45:33] 
+[17:45:33] Server Plugins
+[17:45:33] --------------
+[17:45:33]  Loading plugin: dc_cmd
+[17:45:33]   Daniel's CMD plugin v2.8
+[17:45:33]     (c) 2014 Daniel_Cortez
+[17:45:33] 	www.pro-pawn.ru
+[17:45:33]   Loaded.
+[17:45:33]  Loading plugin: mysql
+[17:45:35]  >> plugin.mysql: R41-4 successfully loaded.
+[17:45:35]   Loaded.
+[17:45:35]  Loading plugin: sscanf
+[17:45:35] 
+
+[17:45:35]  ===============================
+
+[17:45:35]       sscanf plugin loaded.     
+
+[17:45:35]          Version:  2.8.1        
+
+[17:45:35]    (c) 2012 Alex "Y_Less" Cole  
+
+[17:45:35]  ===============================
+
+[17:45:35]   Loaded.
+[17:45:35]  Loading plugin: streamer
+[17:45:35] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[17:45:35]   Loaded.
+[17:45:35]  Loading plugin: iTD
+[17:45:35] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[17:45:35]   Loaded.
+[17:45:35]  Loading plugin: timerfix
+[17:45:35] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[17:45:35]   Loaded.
+[17:45:35]  Loaded 6 plugins.
+
+[17:45:35] 
+[17:45:35] Filterscripts
+[17:45:35] ---------------
+[17:45:35]   Loading filterscript 'iTDe.amx'...
+[17:45:36] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[17:45:36]   Loaded 1 filterscripts.
+
+[17:45:37] Подключение к базе данных MYSQL успешно
+[17:45:37] 
+----------------------------------
+[17:45:37]  Asterism Role Play 
+[17:45:37] ----------------------------------
+
+[17:45:37] Number of vehicle models: 0
+[17:46:55] [connection] 127.0.0.1:63746 requests connection cookie.
+[17:46:56] [connection] incoming connection: 127.0.0.1:63746 id: 0
+[17:46:57] [join] Ersa has joined the server (0:127.0.0.1)
+[17:47:16] [connection] incoming connection: 127.0.0.1:4283 id: 1
+[17:47:34] [connection] incoming connection: 127.0.0.1:4284 id: 1
+[17:47:37] [part] Ersa has left the server (0:0)
+[17:47:52] [connection] incoming connection: 127.0.0.1:4285 id: 0
+[17:47:52] [join] Ersa has joined the server (0:127.0.0.1)
+[17:47:56] Password is jffffff
+[17:58:36] [part] Ersa has left the server (0:1)
+[17:58:44] --- Server Shutting Down.
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:05:05] 
+[21:05:05] Server Plugins
+[21:05:05] --------------
+[21:05:05]  Loading plugin: dc_cmd
+[21:05:05]   Daniel's CMD plugin v2.8
+[21:05:05]     (c) 2014 Daniel_Cortez
+[21:05:05] 	www.pro-pawn.ru
+[21:05:05]   Loaded.
+[21:05:05]  Loading plugin: mysql
+[21:05:05]  >> plugin.mysql: R41-4 successfully loaded.
+[21:05:05]   Loaded.
+[21:05:05]  Loading plugin: sscanf
+[21:05:05] 
+
+[21:05:05]  ===============================
+
+[21:05:05]       sscanf plugin loaded.     
+
+[21:05:05]          Version:  2.8.1        
+
+[21:05:05]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:05:05]  ===============================
+
+[21:05:05]   Loaded.
+[21:05:05]  Loading plugin: streamer
+[21:05:05] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[21:05:05]   Loaded.
+[21:05:05]  Loading plugin: iTD
+[21:05:05] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[21:05:05]   Loaded.
+[21:05:05]  Loading plugin: timerfix
+[21:05:05] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[21:05:06]   Loaded.
+[21:05:06]  Loaded 6 plugins.
+
+[21:05:06] 
+[21:05:06] Filterscripts
+[21:05:06] ---------------
+[21:05:06]   Loading filterscript 'iTDe.amx'...
+[21:05:06] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[21:05:06]   Loaded 1 filterscripts.
+
+[21:05:06] Подключение к базе данных MYSQL успешно
+[21:05:06] 
+----------------------------------
+[21:05:06]  Asterism Role Play 
+[21:05:06] ----------------------------------
+
+[21:05:06] Number of vehicle models: 0
+[21:05:53] [connection] 127.0.0.1:35396 requests connection cookie.
+[21:05:54] [connection] incoming connection: 127.0.0.1:35396 id: 0
+[21:05:54] [join] Ersa has joined the server (0:127.0.0.1)
+[21:06:00] Password is ghdfjhjdfk
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:17:25] 
+[21:17:25] Server Plugins
+[21:17:25] --------------
+[21:17:25]  Loading plugin: dc_cmd
+[21:17:25]   Daniel's CMD plugin v2.8
+[21:17:25]     (c) 2014 Daniel_Cortez
+[21:17:25] 	www.pro-pawn.ru
+[21:17:25]   Loaded.
+[21:17:25]  Loading plugin: mysql
+[21:17:25]  >> plugin.mysql: R41-4 successfully loaded.
+[21:17:25]   Loaded.
+[21:17:25]  Loading plugin: sscanf
+[21:17:25] 
+
+[21:17:25]  ===============================
+
+[21:17:25]       sscanf plugin loaded.     
+
+[21:17:25]          Version:  2.8.1        
+
+[21:17:25]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:17:25]  ===============================
+
+[21:17:25]   Loaded.
+[21:17:25]  Loading plugin: streamer
+[21:17:25] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[21:17:25]   Loaded.
+[21:17:25]  Loading plugin: iTD
+[21:17:25] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[21:17:25]   Loaded.
+[21:17:25]  Loading plugin: timerfix
+[21:17:25] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[21:17:25]   Loaded.
+[21:17:25]  Loaded 6 plugins.
+
+[21:17:25] 
+[21:17:25] Filterscripts
+[21:17:25] ---------------
+[21:17:25]   Loading filterscript 'iTDe.amx'...
+[21:17:25] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[21:17:25]   Loaded 1 filterscripts.
+
+[21:17:25] Подключение к базе данных MYSQL успешно
+[21:17:25] 
+----------------------------------
+[21:17:25]  Asterism Role Play 
+[21:17:25] ----------------------------------
+
+[21:17:25] Number of vehicle models: 0
+[21:17:29] [connection] 127.0.0.1:64014 requests connection cookie.
+[21:17:30] [connection] incoming connection: 127.0.0.1:64014 id: 0
+[21:17:30] [join] Ersa has joined the server (0:127.0.0.1)
+[21:17:32] Password is hdfjskdf
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:21:12] 
+[21:21:12] Server Plugins
+[21:21:12] --------------
+[21:21:12]  Loading plugin: dc_cmd
+[21:21:12]   Daniel's CMD plugin v2.8
+[21:21:12]     (c) 2014 Daniel_Cortez
+[21:21:12] 	www.pro-pawn.ru
+[21:21:12]   Loaded.
+[21:21:12]  Loading plugin: mysql
+[21:21:12]  >> plugin.mysql: R41-4 successfully loaded.
+[21:21:12]   Loaded.
+[21:21:12]  Loading plugin: sscanf
+[21:21:12] 
+
+[21:21:12]  ===============================
+
+[21:21:12]       sscanf plugin loaded.     
+
+[21:21:12]          Version:  2.8.1        
+
+[21:21:12]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:21:12]  ===============================
+
+[21:21:12]   Loaded.
+[21:21:12]  Loading plugin: streamer
+[21:21:12] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[21:21:12]   Loaded.
+[21:21:12]  Loading plugin: iTD
+[21:21:12] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[21:21:12]   Loaded.
+[21:21:12]  Loading plugin: timerfix
+[21:21:12] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[21:21:12]   Loaded.
+[21:21:12]  Loaded 6 plugins.
+
+[21:21:12] 
+[21:21:12] Filterscripts
+[21:21:12] ---------------
+[21:21:12]   Loading filterscript 'iTDe.amx'...
+[21:21:12] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[21:21:12]   Loaded 1 filterscripts.
+
+[21:21:12] Подключение к базе данных MYSQL успешно
+[21:21:12] 
+----------------------------------
+[21:21:12]  Asterism Role Play 
+[21:21:12] ----------------------------------
+
+[21:21:12] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:22:25] 
+[21:22:25] Server Plugins
+[21:22:25] --------------
+[21:22:25]  Loading plugin: dc_cmd
+[21:22:25]   Daniel's CMD plugin v2.8
+[21:22:25]     (c) 2014 Daniel_Cortez
+[21:22:25] 	www.pro-pawn.ru
+[21:22:25]   Loaded.
+[21:22:25]  Loading plugin: mysql
+[21:22:25]  >> plugin.mysql: R41-4 successfully loaded.
+[21:22:25]   Loaded.
+[21:22:25]  Loading plugin: sscanf
+[21:22:25] 
+
+[21:22:25]  ===============================
+
+[21:22:25]       sscanf plugin loaded.     
+
+[21:22:25]          Version:  2.8.1        
+
+[21:22:25]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:22:25]  ===============================
+
+[21:22:25]   Loaded.
+[21:22:25]  Loading plugin: streamer
+[21:22:25] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[21:22:25]   Loaded.
+[21:22:25]  Loading plugin: iTD
+[21:22:25] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[21:22:25]   Loaded.
+[21:22:25]  Loading plugin: timerfix
+[21:22:25] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[21:22:25]   Loaded.
+[21:22:25]  Loaded 6 plugins.
+
+[21:22:25] 
+[21:22:25] Filterscripts
+[21:22:25] ---------------
+[21:22:25]   Loading filterscript 'iTDe.amx'...
+[21:22:25] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[21:22:25]   Loaded 1 filterscripts.
+
+[21:22:25] Подключение к базе данных MYSQL успешно
+[21:22:25] 
+----------------------------------
+[21:22:25]  Asterism Role Play 
+[21:22:25] ----------------------------------
+
+[21:22:25] Number of vehicle models: 0
+[21:22:26] [connection] 127.0.0.1:19508 requests connection cookie.
+[21:22:27] [connection] incoming connection: 127.0.0.1:19508 id: 0
+[21:22:27] [join] Ersa has joined the server (0:127.0.0.1)
+[21:22:28] Password is gjdfklgjdfl
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:24:59] 
+[21:24:59] Server Plugins
+[21:24:59] --------------
+[21:24:59]  Loading plugin: dc_cmd
+[21:24:59]   Daniel's CMD plugin v2.8
+[21:24:59]     (c) 2014 Daniel_Cortez
+[21:24:59] 	www.pro-pawn.ru
+[21:24:59]   Loaded.
+[21:24:59]  Loading plugin: mysql
+[21:24:59]  >> plugin.mysql: R41-4 successfully loaded.
+[21:24:59]   Loaded.
+[21:24:59]  Loading plugin: sscanf
+[21:24:59] 
+
+[21:24:59]  ===============================
+
+[21:24:59]       sscanf plugin loaded.     
+
+[21:24:59]          Version:  2.8.1        
+
+[21:24:59]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:24:59]  ===============================
+
+[21:24:59]   Loaded.
+[21:24:59]  Loading plugin: streamer
+[21:24:59] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[21:24:59]   Loaded.
+[21:24:59]  Loading plugin: iTD
+[21:24:59] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[21:24:59]   Loaded.
+[21:24:59]  Loading plugin: timerfix
+[21:24:59] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[21:24:59]   Loaded.
+[21:24:59]  Loaded 6 plugins.
+
+[21:24:59] 
+[21:24:59] Filterscripts
+[21:24:59] ---------------
+[21:24:59]   Loading filterscript 'iTDe.amx'...
+[21:24:59] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[21:24:59]   Loaded 1 filterscripts.
+
+[21:24:59] Подключение к базе данных MYSQL успешно
+[21:24:59] 
+----------------------------------
+[21:24:59]  Asterism Role Play 
+[21:24:59] ----------------------------------
+
+[21:24:59] Number of vehicle models: 0
+[21:25:16] [connection] 127.0.0.1:44956 requests connection cookie.
+[21:25:17] [connection] incoming connection: 127.0.0.1:44956 id: 0
+[21:25:18] [join] Ersa has joined the server (0:127.0.0.1)
+[21:25:19] Password is fdgkjdfgd
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:27:33] 
+[21:27:33] Server Plugins
+[21:27:33] --------------
+[21:27:33]  Loading plugin: dc_cmd
+[21:27:33]   Daniel's CMD plugin v2.8
+[21:27:33]     (c) 2014 Daniel_Cortez
+[21:27:33] 	www.pro-pawn.ru
+[21:27:33]   Loaded.
+[21:27:33]  Loading plugin: mysql
+[21:27:33]  >> plugin.mysql: R41-4 successfully loaded.
+[21:27:33]   Loaded.
+[21:27:33]  Loading plugin: sscanf
+[21:27:33] 
+
+[21:27:33]  ===============================
+
+[21:27:33]       sscanf plugin loaded.     
+
+[21:27:33]          Version:  2.8.1        
+
+[21:27:33]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:27:33]  ===============================
+
+[21:27:33]   Loaded.
+[21:27:33]  Loading plugin: streamer
+[21:27:33] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[21:27:33]   Loaded.
+[21:27:33]  Loading plugin: iTD
+[21:27:33] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[21:27:33]   Loaded.
+[21:27:33]  Loading plugin: timerfix
+[21:27:33] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[21:27:34]   Loaded.
+[21:27:34]  Loaded 6 plugins.
+
+[21:27:34] 
+[21:27:34] Filterscripts
+[21:27:34] ---------------
+[21:27:34]   Loading filterscript 'iTDe.amx'...
+[21:27:34] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[21:27:34]   Loaded 1 filterscripts.
+
+[21:27:34] Подключение к базе данных MYSQL успешно
+[21:27:34] 
+----------------------------------
+[21:27:34]  Asterism Role Play 
+[21:27:34] ----------------------------------
+
+[21:27:34] Number of vehicle models: 0
+[21:27:38] [connection] 127.0.0.1:50411 requests connection cookie.
+[21:27:39] [connection] incoming connection: 127.0.0.1:50411 id: 0
+[21:27:40] [join] Ersa has joined the server (0:127.0.0.1)
+[21:27:43] Password is fdgkdf
+[21:29:38] [part] Ersa has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:33:09] 
+[21:33:09] Server Plugins
+[21:33:09] --------------
+[21:33:09]  Loading plugin: dc_cmd
+[21:33:09]   Daniel's CMD plugin v2.8
+[21:33:09]     (c) 2014 Daniel_Cortez
+[21:33:09] 	www.pro-pawn.ru
+[21:33:09]   Loaded.
+[21:33:09]  Loading plugin: mysql
+[21:33:09]  >> plugin.mysql: R41-4 successfully loaded.
+[21:33:09]   Loaded.
+[21:33:09]  Loading plugin: sscanf
+[21:33:09] 
+
+[21:33:09]  ===============================
+
+[21:33:09]       sscanf plugin loaded.     
+
+[21:33:09]          Version:  2.8.1        
+
+[21:33:09]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:33:09]  ===============================
+
+[21:33:09]   Loaded.
+[21:33:09]  Loading plugin: streamer
+[21:33:09] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[21:33:09]   Loaded.
+[21:33:09]  Loading plugin: iTD
+[21:33:09] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[21:33:09]   Loaded.
+[21:33:09]  Loading plugin: timerfix
+[21:33:09] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[21:33:09]   Loaded.
+[21:33:09]  Loaded 6 plugins.
+
+[21:33:09] 
+[21:33:09] Filterscripts
+[21:33:09] ---------------
+[21:33:09]   Loading filterscript 'iTDe.amx'...
+[21:33:09] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[21:33:09]   Loaded 1 filterscripts.
+
+[21:33:09] Подключение к базе данных MYSQL успешно
+[21:33:09] 
+----------------------------------
+[21:33:09]  Asterism Role Play 
+[21:33:09] ----------------------------------
+
+[21:33:09] Number of vehicle models: 0
+[21:33:29] [connection] 127.0.0.1:48681 requests connection cookie.
+[21:33:30] [connection] incoming connection: 127.0.0.1:48681 id: 0
+[21:33:30] [join] Ersa has joined the server (0:127.0.0.1)
+[21:36:21] Password is gfgfdjk
+[21:36:35] [connection] incoming connection: 127.0.0.1:29404 id: 1
+[21:36:49] [part] Ersa has left the server (0:0)
+[21:37:19] [connection] incoming connection: 127.0.0.1:63057 id: 0
+[21:37:20] [join] Ersa has joined the server (0:127.0.0.1)
+[21:37:21] Password is fgfdgdf
+[21:39:46] [part] Ersa has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:42:33] 
+[21:42:33] Server Plugins
+[21:42:33] --------------
+[21:42:33]  Loading plugin: dc_cmd
+[21:42:33]   Daniel's CMD plugin v2.8
+[21:42:33]     (c) 2014 Daniel_Cortez
+[21:42:33] 	www.pro-pawn.ru
+[21:42:33]   Loaded.
+[21:42:33]  Loading plugin: mysql
+[21:42:33]  >> plugin.mysql: R41-4 successfully loaded.
+[21:42:33]   Loaded.
+[21:42:33]  Loading plugin: sscanf
+[21:42:33] 
+
+[21:42:33]  ===============================
+
+[21:42:33]       sscanf plugin loaded.     
+
+[21:42:33]          Version:  2.8.1        
+
+[21:42:33]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:42:33]  ===============================
+
+[21:42:33]   Loaded.
+[21:42:33]  Loading plugin: streamer
+[21:42:33] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[21:42:33]   Loaded.
+[21:42:33]  Loading plugin: iTD
+[21:42:33] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[21:42:33]   Loaded.
+[21:42:33]  Loading plugin: timerfix
+[21:42:33] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[21:42:33]   Loaded.
+[21:42:33]  Loaded 6 plugins.
+
+[21:42:33] 
+[21:42:33] Filterscripts
+[21:42:33] ---------------
+[21:42:33]   Loading filterscript 'iTDe.amx'...
+[21:42:33] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[21:42:33]   Loaded 1 filterscripts.
+
+[21:42:33] Подключение к базе данных MYSQL успешно
+[21:42:33] 
+----------------------------------
+[21:42:33]  Asterism Role Play 
+[21:42:33] ----------------------------------
+
+[21:42:33] Number of vehicle models: 0
+[21:42:54] [connection] 127.0.0.1:6218 requests connection cookie.
+[21:42:55] [connection] incoming connection: 127.0.0.1:6218 id: 0
+[21:42:55] [join] Ersa has joined the server (0:127.0.0.1)
+[21:42:57] Password is dsfjksdf
+[21:44:00] [connection] incoming connection: 127.0.0.1:51923 id: 1
+[21:44:03] [part] Ersa has left the server (0:0)
+[21:44:26] [connection] incoming connection: 127.0.0.1:51925 id: 0
+[21:44:27] [join] Ersa has joined the server (0:127.0.0.1)
+[21:44:31] [connection] incoming connection: 127.0.0.1:51926 id: 1
+[21:44:42] [part] Ersa has left the server (0:0)
+[21:45:25] [connection] incoming connection: 127.0.0.1:63819 id: 0
+[21:45:26] [join] Ersa has joined the server (0:127.0.0.1)
+[21:45:29] Password is gfjdkgjdf
+[21:46:38] [part] Ersa has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:52:20] 
+[21:52:20] Server Plugins
+[21:52:20] --------------
+[21:52:20]  Loading plugin: dc_cmd
+[21:52:20]   Daniel's CMD plugin v2.8
+[21:52:20]     (c) 2014 Daniel_Cortez
+[21:52:20] 	www.pro-pawn.ru
+[21:52:20]   Loaded.
+[21:52:20]  Loading plugin: mysql
+[21:52:20]  >> plugin.mysql: R41-4 successfully loaded.
+[21:52:20]   Loaded.
+[21:52:20]  Loading plugin: sscanf
+[21:52:20] 
+
+[21:52:20]  ===============================
+
+[21:52:20]       sscanf plugin loaded.     
+
+[21:52:20]          Version:  2.8.1        
+
+[21:52:20]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:52:20]  ===============================
+
+[21:52:20]   Loaded.
+[21:52:20]  Loading plugin: streamer
+[21:52:20] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[21:52:20]   Loaded.
+[21:52:20]  Loading plugin: iTD
+[21:52:20] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[21:52:20]   Loaded.
+[21:52:20]  Loading plugin: timerfix
+[21:52:20] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[21:52:20]   Loaded.
+[21:52:20]  Loaded 6 plugins.
+
+[21:52:20] 
+[21:52:20] Filterscripts
+[21:52:20] ---------------
+[21:52:20]   Loading filterscript 'iTDe.amx'...
+[21:52:20] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[21:52:20]   Loaded 1 filterscripts.
+
+[21:52:20] Подключение к базе данных MYSQL успешно
+[21:52:20] 
+----------------------------------
+[21:52:20]  Asterism Role Play 
+[21:52:20] ----------------------------------
+
+[21:52:20] Number of vehicle models: 0
+[21:52:39] [connection] 127.0.0.1:52588 requests connection cookie.
+[21:52:40] [connection] incoming connection: 127.0.0.1:52588 id: 0
+[21:52:40] [join] Ersa has joined the server (0:127.0.0.1)
+[21:52:42] Password is fdgkjdfg
+[21:53:45] [part] Ersa has left the server (0:1)
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[21:56:39] 
+[21:56:39] Server Plugins
+[21:56:39] --------------
+[21:56:39]  Loading plugin: dc_cmd
+[21:56:39]   Daniel's CMD plugin v2.8
+[21:56:39]     (c) 2014 Daniel_Cortez
+[21:56:39] 	www.pro-pawn.ru
+[21:56:39]   Loaded.
+[21:56:39]  Loading plugin: mysql
+[21:56:39]  >> plugin.mysql: R41-4 successfully loaded.
+[21:56:39]   Loaded.
+[21:56:39]  Loading plugin: sscanf
+[21:56:39] 
+
+[21:56:39]  ===============================
+
+[21:56:39]       sscanf plugin loaded.     
+
+[21:56:39]          Version:  2.8.1        
+
+[21:56:39]    (c) 2012 Alex "Y_Less" Cole  
+
+[21:56:39]  ===============================
+
+[21:56:39]   Loaded.
+[21:56:39]  Loading plugin: streamer
+[21:56:39] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[21:56:39]   Loaded.
+[21:56:39]  Loading plugin: iTD
+[21:56:39] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[21:56:39]   Loaded.
+[21:56:39]  Loading plugin: timerfix
+[21:56:39] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[21:56:39]   Loaded.
+[21:56:39]  Loaded 6 plugins.
+
+[21:56:39] 
+[21:56:39] Filterscripts
+[21:56:39] ---------------
+[21:56:39]   Loading filterscript 'iTDe.amx'...
+[21:56:39] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[21:56:39]   Loaded 1 filterscripts.
+
+[21:56:39] Подключение к базе данных MYSQL успешно
+[21:56:39] 
+----------------------------------
+[21:56:39]  Asterism Role Play 
+[21:56:39] ----------------------------------
+
+[21:56:39] Number of vehicle models: 0
+[21:56:58] [connection] 127.0.0.1:11062 requests connection cookie.
+[21:56:59] [connection] incoming connection: 127.0.0.1:11062 id: 0
+[21:57:00] [join] Ersa has joined the server (0:127.0.0.1)
+[21:57:02] Password is hgddsdfs
+[21:57:49] [part] Ersa has left the server (0:0)
+[21:58:01] [connection] incoming connection: 127.0.0.1:5180 id: 0
+[21:58:02] [join] Ersa has joined the server (0:127.0.0.1)
+[21:58:03] Password is hgdfjghdf
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:02:42] 
+[22:02:42] Server Plugins
+[22:02:42] --------------
+[22:02:42]  Loading plugin: dc_cmd
+[22:02:42]   Daniel's CMD plugin v2.8
+[22:02:42]     (c) 2014 Daniel_Cortez
+[22:02:42] 	www.pro-pawn.ru
+[22:02:42]   Loaded.
+[22:02:42]  Loading plugin: mysql
+[22:02:42]  >> plugin.mysql: R41-4 successfully loaded.
+[22:02:42]   Loaded.
+[22:02:42]  Loading plugin: sscanf
+[22:02:42] 
+
+[22:02:42]  ===============================
+
+[22:02:42]       sscanf plugin loaded.     
+
+[22:02:42]          Version:  2.8.1        
+
+[22:02:42]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:02:42]  ===============================
+
+[22:02:42]   Loaded.
+[22:02:42]  Loading plugin: streamer
+[22:02:42] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[22:02:42]   Loaded.
+[22:02:42]  Loading plugin: iTD
+[22:02:42] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[22:02:42]   Loaded.
+[22:02:42]  Loading plugin: timerfix
+[22:02:42] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[22:02:42]   Loaded.
+[22:02:42]  Loaded 6 plugins.
+
+[22:02:42] 
+[22:02:42] Filterscripts
+[22:02:42] ---------------
+[22:02:42]   Loading filterscript 'iTDe.amx'...
+[22:02:42] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[22:02:42]   Loaded 1 filterscripts.
+
+[22:02:42] Подключение к базе данных MYSQL успешно
+[22:02:42] 
+----------------------------------
+[22:02:42]  Asterism Role Play 
+[22:02:42] ----------------------------------
+
+[22:02:42] Number of vehicle models: 0
+[22:02:46] [connection] 127.0.0.1:1035 requests connection cookie.
+[22:02:47] [connection] incoming connection: 127.0.0.1:1035 id: 0
+[22:02:47] [join] Ersa has joined the server (0:127.0.0.1)
+[22:02:49] Password is fgdgfdfgd
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:04:07] 
+[22:04:07] Server Plugins
+[22:04:07] --------------
+[22:04:07]  Loading plugin: dc_cmd
+[22:04:07]   Daniel's CMD plugin v2.8
+[22:04:07]     (c) 2014 Daniel_Cortez
+[22:04:07] 	www.pro-pawn.ru
+[22:04:07]   Loaded.
+[22:04:07]  Loading plugin: mysql
+[22:04:07]  >> plugin.mysql: R41-4 successfully loaded.
+[22:04:07]   Loaded.
+[22:04:07]  Loading plugin: sscanf
+[22:04:07] 
+
+[22:04:07]  ===============================
+
+[22:04:07]       sscanf plugin loaded.     
+
+[22:04:07]          Version:  2.8.1        
+
+[22:04:07]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:04:07]  ===============================
+
+[22:04:07]   Loaded.
+[22:04:07]  Loading plugin: streamer
+[22:04:07] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[22:04:07]   Loaded.
+[22:04:07]  Loading plugin: iTD
+[22:04:07] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[22:04:07]   Loaded.
+[22:04:07]  Loading plugin: timerfix
+[22:04:07] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[22:04:07]   Loaded.
+[22:04:07]  Loaded 6 plugins.
+
+[22:04:07] 
+[22:04:07] Filterscripts
+[22:04:07] ---------------
+[22:04:07]   Loading filterscript 'iTDe.amx'...
+[22:04:07] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[22:04:07]   Loaded 1 filterscripts.
+
+[22:04:07] Подключение к базе данных MYSQL успешно
+[22:04:07] 
+----------------------------------
+[22:04:07]  Asterism Role Play 
+[22:04:07] ----------------------------------
+
+[22:04:07] Number of vehicle models: 0
+[22:04:09] [connection] 127.0.0.1:33244 requests connection cookie.
+[22:04:10] [connection] incoming connection: 127.0.0.1:33244 id: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:04:21] 
+[22:04:21] Server Plugins
+[22:04:21] --------------
+[22:04:21]  Loading plugin: dc_cmd
+[22:04:21]   Daniel's CMD plugin v2.8
+[22:04:21]     (c) 2014 Daniel_Cortez
+[22:04:21] 	www.pro-pawn.ru
+[22:04:21]   Loaded.
+[22:04:21]  Loading plugin: mysql
+[22:04:21]  >> plugin.mysql: R41-4 successfully loaded.
+[22:04:21]   Loaded.
+[22:04:21]  Loading plugin: sscanf
+[22:04:21] 
+
+[22:04:21]  ===============================
+
+[22:04:21]       sscanf plugin loaded.     
+
+[22:04:21]          Version:  2.8.1        
+
+[22:04:21]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:04:21]  ===============================
+
+[22:04:21]   Loaded.
+[22:04:21]  Loading plugin: streamer
+[22:04:21] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[22:04:21]   Loaded.
+[22:04:21]  Loading plugin: iTD
+[22:04:21] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[22:04:21]   Loaded.
+[22:04:21]  Loading plugin: timerfix
+[22:04:21] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[22:04:21]   Loaded.
+[22:04:21]  Loaded 6 plugins.
+
+[22:04:21] 
+[22:04:21] Filterscripts
+[22:04:21] ---------------
+[22:04:21]   Loading filterscript 'iTDe.amx'...
+[22:04:21] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[22:04:21]   Loaded 1 filterscripts.
+
+[22:04:21] Подключение к базе данных MYSQL успешно
+[22:04:21] 
+----------------------------------
+[22:04:21]  Asterism Role Play 
+[22:04:21] ----------------------------------
+
+[22:04:21] Number of vehicle models: 0
+[22:04:21] [connection] 127.0.0.1:33245 requests connection cookie.
+[22:04:22] [connection] incoming connection: 127.0.0.1:33245 id: 0
+[22:04:23] [join] Ersa has joined the server (0:127.0.0.1)
+[22:04:24] Password is fdjgfd
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[22:05:55] 
+[22:05:55] Server Plugins
+[22:05:55] --------------
+[22:05:55]  Loading plugin: dc_cmd
+[22:05:55]   Daniel's CMD plugin v2.8
+[22:05:55]     (c) 2014 Daniel_Cortez
+[22:05:55] 	www.pro-pawn.ru
+[22:05:55]   Loaded.
+[22:05:55]  Loading plugin: mysql
+[22:05:55]  >> plugin.mysql: R41-4 successfully loaded.
+[22:05:55]   Loaded.
+[22:05:55]  Loading plugin: sscanf
+[22:05:55] 
+
+[22:05:55]  ===============================
+
+[22:05:55]       sscanf plugin loaded.     
+
+[22:05:55]          Version:  2.8.1        
+
+[22:05:55]    (c) 2012 Alex "Y_Less" Cole  
+
+[22:05:55]  ===============================
+
+[22:05:55]   Loaded.
+[22:05:55]  Loading plugin: streamer
+[22:05:55] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[22:05:55]   Loaded.
+[22:05:55]  Loading plugin: iTD
+[22:05:55] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[22:05:55]   Loaded.
+[22:05:55]  Loading plugin: timerfix
+[22:05:55] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[22:05:55]   Loaded.
+[22:05:55]  Loaded 6 plugins.
+
+[22:05:55] 
+[22:05:55] Filterscripts
+[22:05:55] ---------------
+[22:05:55]   Loading filterscript 'iTDe.amx'...
+[22:05:55] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[22:05:55]   Loaded 1 filterscripts.
+
+[22:05:55] Подключение к базе данных MYSQL успешно
+[22:05:55] 
+----------------------------------
+[22:05:55]  Asterism Role Play 
+[22:05:55] ----------------------------------
+
+[22:05:55] Number of vehicle models: 0
+[22:05:58] [connection] 127.0.0.1:42562 requests connection cookie.
+[22:05:59] [connection] incoming connection: 127.0.0.1:42562 id: 0
+[22:06:09] [connection] incoming connection: 127.0.0.1:42564 id: 0
+[22:06:19] [connection] incoming connection: 127.0.0.1:42565 id: 0
+[22:06:20] [join] Ersa has joined the server (0:127.0.0.1)
+[22:06:21] Password is jhgjgj
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:12:13] 
+[23:12:13] Server Plugins
+[23:12:13] --------------
+[23:12:13]  Loading plugin: dc_cmd
+[23:12:13]   Daniel's CMD plugin v2.8
+[23:12:13]     (c) 2014 Daniel_Cortez
+[23:12:13] 	www.pro-pawn.ru
+[23:12:13]   Loaded.
+[23:12:13]  Loading plugin: mysql
+[23:12:13]  >> plugin.mysql: R41-4 successfully loaded.
+[23:12:13]   Loaded.
+[23:12:13]  Loading plugin: sscanf
+[23:12:13] 
+
+[23:12:13]  ===============================
+
+[23:12:13]       sscanf plugin loaded.     
+
+[23:12:13]          Version:  2.8.1        
+
+[23:12:13]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:12:13]  ===============================
+
+[23:12:13]   Loaded.
+[23:12:13]  Loading plugin: streamer
+[23:12:13] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[23:12:13]   Loaded.
+[23:12:13]  Loading plugin: iTD
+[23:12:13] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[23:12:13]   Loaded.
+[23:12:13]  Loading plugin: timerfix
+[23:12:13] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[23:12:13]   Loaded.
+[23:12:13]  Loaded 6 plugins.
+
+[23:12:13] 
+[23:12:13] Filterscripts
+[23:12:13] ---------------
+[23:12:13]   Loading filterscript 'iTDe.amx'...
+[23:12:13] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[23:12:13]   Loaded 1 filterscripts.
+
+[23:12:13] Подключение к базе данных MYSQL успешно
+[23:12:13] 
+----------------------------------
+[23:12:13]  Asterism Role Play 
+[23:12:13] ----------------------------------
+
+[23:12:13] Number of vehicle models: 0
+[23:12:16] [connection] 127.0.0.1:63708 requests connection cookie.
+[23:12:17] [connection] incoming connection: 127.0.0.1:63708 id: 0
+[23:12:17] [join] Ersa has joined the server (0:127.0.0.1)
+[23:12:19] Password is fdgjdksf
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:12:40] 
+[23:12:40] Server Plugins
+[23:12:40] --------------
+[23:12:40]  Loading plugin: dc_cmd
+[23:12:40]   Daniel's CMD plugin v2.8
+[23:12:40]     (c) 2014 Daniel_Cortez
+[23:12:40] 	www.pro-pawn.ru
+[23:12:40]   Loaded.
+[23:12:40]  Loading plugin: mysql
+[23:12:41]  >> plugin.mysql: R41-4 successfully loaded.
+[23:12:41]   Loaded.
+[23:12:41]  Loading plugin: sscanf
+[23:12:41] 
+
+[23:12:41]  ===============================
+
+[23:12:41]       sscanf plugin loaded.     
+
+[23:12:41]          Version:  2.8.1        
+
+[23:12:41]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:12:41]  ===============================
+
+[23:12:41]   Loaded.
+[23:12:41]  Loading plugin: streamer
+[23:12:41] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[23:12:41]   Loaded.
+[23:12:41]  Loading plugin: iTD
+[23:12:41] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[23:12:41]   Loaded.
+[23:12:41]  Loading plugin: timerfix
+[23:12:41] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[23:12:41]   Loaded.
+[23:12:41]  Loaded 6 plugins.
+
+[23:12:41] 
+[23:12:41] Filterscripts
+[23:12:41] ---------------
+[23:12:41]   Loading filterscript 'iTDe.amx'...
+[23:12:41] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[23:12:41]   Loaded 1 filterscripts.
+
+[23:12:41] Подключение к базе данных MYSQL успешно
+[23:12:41] 
+----------------------------------
+[23:12:41]  Asterism Role Play 
+[23:12:41] ----------------------------------
+
+[23:12:41] Number of vehicle models: 0
+[23:12:45] [connection] 127.0.0.1:63709 requests connection cookie.
+[23:12:46] [connection] incoming connection: 127.0.0.1:63709 id: 0
+[23:12:46] [join] Ersa has joined the server (0:127.0.0.1)
+[23:12:48] Password is dfsghdf
+[23:13:43] [part] Ersa has left the server (0:0)
+[23:13:47] [connection] incoming connection: 127.0.0.1:43937 id: 0
+[23:13:48] [join] Ersa has joined the server (0:127.0.0.1)
+[23:13:53] Password is gfdkjd
+[23:14:10] [part] Ersa has left the server (0:0)
+[23:14:24] [connection] incoming connection: 127.0.0.1:24470 id: 0
+[23:14:24] [join] Ersa has joined the server (0:127.0.0.1)
+[23:14:26] Password is fgjkldfjkd
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[23:16:27] 
+[23:16:27] Server Plugins
+[23:16:27] --------------
+[23:16:27]  Loading plugin: dc_cmd
+[23:16:27]   Daniel's CMD plugin v2.8
+[23:16:27]     (c) 2014 Daniel_Cortez
+[23:16:27] 	www.pro-pawn.ru
+[23:16:27]   Loaded.
+[23:16:27]  Loading plugin: mysql
+[23:16:27]  >> plugin.mysql: R41-4 successfully loaded.
+[23:16:27]   Loaded.
+[23:16:27]  Loading plugin: sscanf
+[23:16:27] 
+
+[23:16:27]  ===============================
+
+[23:16:27]       sscanf plugin loaded.     
+
+[23:16:27]          Version:  2.8.1        
+
+[23:16:27]    (c) 2012 Alex "Y_Less" Cole  
+
+[23:16:27]  ===============================
+
+[23:16:27]   Loaded.
+[23:16:27]  Loading plugin: streamer
+[23:16:27] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[23:16:27]   Loaded.
+[23:16:27]  Loading plugin: iTD
+[23:16:27] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[23:16:27]   Loaded.
+[23:16:27]  Loading plugin: timerfix
+[23:16:27] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[23:16:27]   Loaded.
+[23:16:27]  Loaded 6 plugins.
+
+[23:16:27] 
+[23:16:27] Filterscripts
+[23:16:27] ---------------
+[23:16:27]   Loading filterscript 'iTDe.amx'...
+[23:16:27] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[23:16:27]   Loaded 1 filterscripts.
+
+[23:16:27] Подключение к базе данных MYSQL успешно
+[23:16:27] 
+----------------------------------
+[23:16:27]  Asterism Role Play 
+[23:16:27] ----------------------------------
+
+[23:16:27] Number of vehicle models: 0
+[23:16:31] [connection] 127.0.0.1:18734 requests connection cookie.
+[23:16:32] [connection] incoming connection: 127.0.0.1:18734 id: 0
+[23:16:32] [join] Ersa has joined the server (0:127.0.0.1)
+[23:16:33] Password is dfksjsklfjsd
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[13:44:51] 
+[13:44:51] Server Plugins
+[13:44:51] --------------
+[13:44:51]  Loading plugin: dc_cmd
+[13:44:52]   Daniel's CMD plugin v2.8
+[13:44:52]     (c) 2014 Daniel_Cortez
+[13:44:52] 	www.pro-pawn.ru
+[13:44:52]   Loaded.
+[13:44:52]  Loading plugin: mysql
+[13:44:54]  >> plugin.mysql: R41-4 successfully loaded.
+[13:44:54]   Loaded.
+[13:44:54]  Loading plugin: sscanf
+[13:44:55] 
+
+[13:44:55]  ===============================
+
+[13:44:55]       sscanf plugin loaded.     
+
+[13:44:55]          Version:  2.8.1        
+
+[13:44:55]    (c) 2012 Alex "Y_Less" Cole  
+
+[13:44:55]  ===============================
+
+[13:44:55]   Loaded.
+[13:44:55]  Loading plugin: streamer
+[13:44:55] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[13:44:55]   Loaded.
+[13:44:55]  Loading plugin: iTD
+[13:44:55] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[13:44:55]   Loaded.
+[13:44:55]  Loading plugin: timerfix
+[13:44:55] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[13:44:55]   Loaded.
+[13:44:55]  Loaded 6 plugins.
+
+[13:44:55] 
+[13:44:55] Filterscripts
+[13:44:55] ---------------
+[13:44:55]   Loading filterscript 'iTDe.amx'...
+[13:44:56] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[13:44:56]   Loaded 1 filterscripts.
+
+[13:44:56] Подключение к базе данных MYSQL успешно
+[13:44:56] 
+----------------------------------
+[13:44:56]  Asterism Role Play 
+[13:44:56] ----------------------------------
+
+[13:44:56] Number of vehicle models: 0
+[13:45:33] [connection] 127.0.0.1:63450 requests connection cookie.
+[13:45:34] [connection] incoming connection: 127.0.0.1:63450 id: 0
+[13:45:34] [join] Ersa has joined the server (0:127.0.0.1)
+[13:45:37] Password is fgdgdf
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:08:14] 
+[14:08:14] Server Plugins
+[14:08:14] --------------
+[14:08:14]  Loading plugin: dc_cmd
+[14:08:14]   Daniel's CMD plugin v2.8
+[14:08:14]     (c) 2014 Daniel_Cortez
+[14:08:14] 	www.pro-pawn.ru
+[14:08:14]   Loaded.
+[14:08:14]  Loading plugin: mysql
+[14:08:14]  >> plugin.mysql: R41-4 successfully loaded.
+[14:08:14]   Loaded.
+[14:08:14]  Loading plugin: sscanf
+[14:08:14] 
+
+[14:08:14]  ===============================
+
+[14:08:14]       sscanf plugin loaded.     
+
+[14:08:14]          Version:  2.8.1        
+
+[14:08:14]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:08:14]  ===============================
+
+[14:08:14]   Loaded.
+[14:08:14]  Loading plugin: streamer
+[14:08:14] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[14:08:14]   Loaded.
+[14:08:14]  Loading plugin: iTD
+[14:08:14] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[14:08:14]   Loaded.
+[14:08:14]  Loading plugin: timerfix
+[14:08:14] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[14:08:14]   Loaded.
+[14:08:14]  Loaded 6 plugins.
+
+[14:08:14] 
+[14:08:14] Filterscripts
+[14:08:14] ---------------
+[14:08:14]   Loading filterscript 'iTDe.amx'...
+[14:08:14] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[14:08:14]   Loaded 1 filterscripts.
+
+[14:08:15] Подключение к базе данных MYSQL успешно
+[14:08:15] 
+----------------------------------
+[14:08:15]  Asterism Role Play 
+[14:08:15] ----------------------------------
+
+[14:08:15] Number of vehicle models: 0
+[14:08:19] [connection] 127.0.0.1:42417 requests connection cookie.
+[14:08:20] [connection] incoming connection: 127.0.0.1:42417 id: 0
+[14:08:30] [connection] incoming connection: 127.0.0.1:42418 id: 0
+[14:08:40] [connection] incoming connection: 127.0.0.1:42419 id: 0
+[14:08:40] [join] Ersa has joined the server (0:127.0.0.1)
+[14:08:42] Password is hjghjgdf
+[14:09:15] [part] Ersa has left the server (0:0)
+[14:09:18] [connection] incoming connection: 127.0.0.1:15079 id: 0
+[14:09:18] [join] Ersa has joined the server (0:127.0.0.1)
+[14:09:21] Password is fgdgdf
+[14:09:53] [part] Ersa has left the server (0:0)
+[14:09:57] [connection] incoming connection: 127.0.0.1:15081 id: 0
+[14:09:57] [join] Ersa has joined the server (0:127.0.0.1)
+[14:09:59] Password is fgdfhgjdf
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:13:33] 
+[14:13:33] Server Plugins
+[14:13:33] --------------
+[14:13:33]  Loading plugin: dc_cmd
+[14:13:33]   Daniel's CMD plugin v2.8
+[14:13:33]     (c) 2014 Daniel_Cortez
+[14:13:33] 	www.pro-pawn.ru
+[14:13:33]   Loaded.
+[14:13:33]  Loading plugin: mysql
+[14:13:33]  >> plugin.mysql: R41-4 successfully loaded.
+[14:13:33]   Loaded.
+[14:13:33]  Loading plugin: sscanf
+[14:13:33] 
+
+[14:13:33]  ===============================
+
+[14:13:33]       sscanf plugin loaded.     
+
+[14:13:33]          Version:  2.8.1        
+
+[14:13:33]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:13:33]  ===============================
+
+[14:13:33]   Loaded.
+[14:13:33]  Loading plugin: streamer
+[14:13:33] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[14:13:33]   Loaded.
+[14:13:33]  Loading plugin: iTD
+[14:13:33] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[14:13:33]   Loaded.
+[14:13:33]  Loading plugin: timerfix
+[14:13:33] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[14:13:33]   Loaded.
+[14:13:33]  Loaded 6 plugins.
+
+[14:13:33] 
+[14:13:33] Filterscripts
+[14:13:33] ---------------
+[14:13:33]   Loading filterscript 'iTDe.amx'...
+[14:13:33] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[14:13:33]   Loaded 1 filterscripts.
+
+[14:13:33] Подключение к базе данных MYSQL успешно
+[14:13:33] 
+----------------------------------
+[14:13:33]  Asterism Role Play 
+[14:13:33] ----------------------------------
+
+[14:13:33] Number of vehicle models: 0
+[14:13:36] [connection] 127.0.0.1:8186 requests connection cookie.
+[14:13:37] [connection] incoming connection: 127.0.0.1:8186 id: 0
+[14:13:37] [join] Ersa has joined the server (0:127.0.0.1)
+[14:13:38] Password is fgdfjd
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:19:52] 
+[14:19:52] Server Plugins
+[14:19:52] --------------
+[14:19:52]  Loading plugin: dc_cmd
+[14:19:52]   Daniel's CMD plugin v2.8
+[14:19:52]     (c) 2014 Daniel_Cortez
+[14:19:52] 	www.pro-pawn.ru
+[14:19:52]   Loaded.
+[14:19:52]  Loading plugin: mysql
+[14:19:52]  >> plugin.mysql: R41-4 successfully loaded.
+[14:19:52]   Loaded.
+[14:19:52]  Loading plugin: sscanf
+[14:19:52] 
+
+[14:19:52]  ===============================
+
+[14:19:52]       sscanf plugin loaded.     
+
+[14:19:52]          Version:  2.8.1        
+
+[14:19:52]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:19:52]  ===============================
+
+[14:19:52]   Loaded.
+[14:19:52]  Loading plugin: streamer
+[14:19:52] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[14:19:52]   Loaded.
+[14:19:52]  Loading plugin: iTD
+[14:19:52] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[14:19:52]   Loaded.
+[14:19:52]  Loading plugin: timerfix
+[14:19:52] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[14:19:52]   Loaded.
+[14:19:52]  Loaded 6 plugins.
+
+[14:19:53] 
+[14:19:53] Filterscripts
+[14:19:53] ---------------
+[14:19:53]   Loading filterscript 'iTDe.amx'...
+[14:19:53] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[14:19:53]   Loaded 1 filterscripts.
+
+[14:19:53] Подключение к базе данных MYSQL успешно
+[14:19:53] 
+----------------------------------
+[14:19:53]  Asterism Role Play 
+[14:19:53] ----------------------------------
+
+[14:19:53] Number of vehicle models: 0
+[14:19:56] [connection] 127.0.0.1:51378 requests connection cookie.
+[14:19:57] [connection] incoming connection: 127.0.0.1:51378 id: 0
+[14:19:57] [join] Ersa has joined the server (0:127.0.0.1)
+[14:19:59] Password is fdjgdfk
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:27:20] 
+[14:27:20] Server Plugins
+[14:27:20] --------------
+[14:27:20]  Loading plugin: dc_cmd
+[14:27:20]   Daniel's CMD plugin v2.8
+[14:27:20]     (c) 2014 Daniel_Cortez
+[14:27:20] 	www.pro-pawn.ru
+[14:27:20]   Loaded.
+[14:27:20]  Loading plugin: mysql
+[14:27:20]  >> plugin.mysql: R41-4 successfully loaded.
+[14:27:20]   Loaded.
+[14:27:20]  Loading plugin: sscanf
+[14:27:20] 
+
+[14:27:20]  ===============================
+
+[14:27:20]       sscanf plugin loaded.     
+
+[14:27:20]          Version:  2.8.1        
+
+[14:27:20]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:27:20]  ===============================
+
+[14:27:20]   Loaded.
+[14:27:20]  Loading plugin: streamer
+[14:27:20] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[14:27:20]   Loaded.
+[14:27:20]  Loading plugin: iTD
+[14:27:20] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[14:27:20]   Loaded.
+[14:27:20]  Loading plugin: timerfix
+[14:27:20] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[14:27:20]   Loaded.
+[14:27:20]  Loaded 6 plugins.
+
+[14:27:20] 
+[14:27:20] Filterscripts
+[14:27:20] ---------------
+[14:27:20]   Loading filterscript 'iTDe.amx'...
+[14:27:20] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[14:27:20]   Loaded 1 filterscripts.
+
+[14:27:20] Подключение к базе данных MYSQL успешно
+[14:27:20] 
+----------------------------------
+[14:27:20]  Asterism Role Play 
+[14:27:20] ----------------------------------
+
+[14:27:20] Number of vehicle models: 0
+[14:27:23] [connection] 127.0.0.1:3488 requests connection cookie.
+[14:27:24] [connection] incoming connection: 127.0.0.1:3488 id: 0
+[14:27:24] [join] Ersa has joined the server (0:127.0.0.1)
+[14:27:26] Password is fdgkldf
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:27:49] 
+[14:27:49] Server Plugins
+[14:27:49] --------------
+[14:27:49]  Loading plugin: dc_cmd
+[14:27:49]   Daniel's CMD plugin v2.8
+[14:27:49]     (c) 2014 Daniel_Cortez
+[14:27:49] 	www.pro-pawn.ru
+[14:27:49]   Loaded.
+[14:27:49]  Loading plugin: mysql
+[14:27:49]  >> plugin.mysql: R41-4 successfully loaded.
+[14:27:49]   Loaded.
+[14:27:49]  Loading plugin: sscanf
+[14:27:49] 
+
+[14:27:49]  ===============================
+
+[14:27:49]       sscanf plugin loaded.     
+
+[14:27:49]          Version:  2.8.1        
+
+[14:27:49]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:27:49]  ===============================
+
+[14:27:49]   Loaded.
+[14:27:49]  Loading plugin: streamer
+[14:27:49] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[14:27:49]   Loaded.
+[14:27:49]  Loading plugin: iTD
+[14:27:49] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[14:27:49]   Loaded.
+[14:27:49]  Loading plugin: timerfix
+[14:27:49] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[14:27:49]   Loaded.
+[14:27:49]  Loaded 6 plugins.
+
+[14:27:49] 
+[14:27:49] Filterscripts
+[14:27:49] ---------------
+[14:27:49]   Loading filterscript 'iTDe.amx'...
+[14:27:49] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[14:27:49]   Loaded 1 filterscripts.
+
+[14:27:49] Подключение к базе данных MYSQL успешно
+[14:27:49] 
+----------------------------------
+[14:27:49]  Asterism Role Play 
+[14:27:49] ----------------------------------
+
+[14:27:49] Number of vehicle models: 0
+[14:27:52] [connection] 127.0.0.1:3489 requests connection cookie.
+[14:27:53] [connection] incoming connection: 127.0.0.1:3489 id: 0
+[14:27:53] [join] Ersa has joined the server (0:127.0.0.1)
+[14:27:54] Password is hfkjsfg
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:36:25] 
+[14:36:25] Server Plugins
+[14:36:25] --------------
+[14:36:25]  Loading plugin: dc_cmd
+[14:36:25]   Daniel's CMD plugin v2.8
+[14:36:25]     (c) 2014 Daniel_Cortez
+[14:36:25] 	www.pro-pawn.ru
+[14:36:25]   Loaded.
+[14:36:25]  Loading plugin: mysql
+[14:36:25]  >> plugin.mysql: R41-4 successfully loaded.
+[14:36:25]   Loaded.
+[14:36:25]  Loading plugin: sscanf
+[14:36:25] 
+
+[14:36:25]  ===============================
+
+[14:36:25]       sscanf plugin loaded.     
+
+[14:36:25]          Version:  2.8.1        
+
+[14:36:25]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:36:25]  ===============================
+
+[14:36:25]   Loaded.
+[14:36:25]  Loading plugin: streamer
+[14:36:25] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[14:36:25]   Loaded.
+[14:36:25]  Loading plugin: iTD
+[14:36:25] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[14:36:25]   Loaded.
+[14:36:25]  Loading plugin: timerfix
+[14:36:25] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[14:36:25]   Loaded.
+[14:36:25]  Loaded 6 plugins.
+
+[14:36:25] 
+[14:36:25] Filterscripts
+[14:36:25] ---------------
+[14:36:25]   Loading filterscript 'iTDe.amx'...
+[14:36:25] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[14:36:25]   Loaded 1 filterscripts.
+
+[14:36:25] Подключение к базе данных MYSQL успешно
+[14:36:25] 
+----------------------------------
+[14:36:25]  Asterism Role Play 
+[14:36:25] ----------------------------------
+
+[14:36:25] Number of vehicle models: 0
+[14:36:28] [connection] 127.0.0.1:13993 requests connection cookie.
+[14:36:29] [connection] incoming connection: 127.0.0.1:13993 id: 0
+[14:36:29] [join] Ersa has joined the server (0:127.0.0.1)
+[14:36:31] Password is fggfdgf
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:36:48] 
+[14:36:48] Server Plugins
+[14:36:48] --------------
+[14:36:48]  Loading plugin: dc_cmd
+[14:36:48]   Daniel's CMD plugin v2.8
+[14:36:48]     (c) 2014 Daniel_Cortez
+[14:36:48] 	www.pro-pawn.ru
+[14:36:48]   Loaded.
+[14:36:48]  Loading plugin: mysql
+[14:36:48]  >> plugin.mysql: R41-4 successfully loaded.
+[14:36:48]   Loaded.
+[14:36:48]  Loading plugin: sscanf
+[14:36:48] 
+
+[14:36:48]  ===============================
+
+[14:36:48]       sscanf plugin loaded.     
+
+[14:36:48]          Version:  2.8.1        
+
+[14:36:48]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:36:48]  ===============================
+
+[14:36:48]   Loaded.
+[14:36:48]  Loading plugin: streamer
+[14:36:48] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[14:36:48]   Loaded.
+[14:36:48]  Loading plugin: iTD
+[14:36:48] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[14:36:48]   Loaded.
+[14:36:48]  Loading plugin: timerfix
+[14:36:48] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[14:36:48]   Loaded.
+[14:36:48]  Loaded 6 plugins.
+
+[14:36:48] 
+[14:36:48] Filterscripts
+[14:36:48] ---------------
+[14:36:48]   Loading filterscript 'iTDe.amx'...
+[14:36:48] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[14:36:48]   Loaded 1 filterscripts.
+
+[14:36:48] Подключение к базе данных MYSQL успешно
+[14:36:48] 
+----------------------------------
+[14:36:48]  Asterism Role Play 
+[14:36:48] ----------------------------------
+
+[14:36:48] Number of vehicle models: 0
+[14:36:53] [connection] 127.0.0.1:51087 requests connection cookie.
+[14:36:54] [connection] incoming connection: 127.0.0.1:51087 id: 0
+[14:36:54] [join] Ersa has joined the server (0:127.0.0.1)
+[14:36:55] Password is gfdjghd
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:44:18] 
+[14:44:18] Server Plugins
+[14:44:18] --------------
+[14:44:18]  Loading plugin: dc_cmd
+[14:44:18]   Daniel's CMD plugin v2.8
+[14:44:18]     (c) 2014 Daniel_Cortez
+[14:44:18] 	www.pro-pawn.ru
+[14:44:18]   Loaded.
+[14:44:18]  Loading plugin: mysql
+[14:44:18]  >> plugin.mysql: R41-4 successfully loaded.
+[14:44:18]   Loaded.
+[14:44:18]  Loading plugin: sscanf
+[14:44:18] 
+
+[14:44:18]  ===============================
+
+[14:44:18]       sscanf plugin loaded.     
+
+[14:44:18]          Version:  2.8.1        
+
+[14:44:18]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:44:18]  ===============================
+
+[14:44:18]   Loaded.
+[14:44:18]  Loading plugin: streamer
+[14:44:18] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[14:44:18]   Loaded.
+[14:44:18]  Loading plugin: iTD
+[14:44:18] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[14:44:18]   Loaded.
+[14:44:18]  Loading plugin: timerfix
+[14:44:18] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[14:44:18]   Loaded.
+[14:44:18]  Loaded 6 plugins.
+
+[14:44:18] 
+[14:44:18] Filterscripts
+[14:44:18] ---------------
+[14:44:18]   Loading filterscript 'iTDe.amx'...
+[14:44:18] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[14:44:18]   Loaded 1 filterscripts.
+
+[14:44:18] Подключение к базе данных MYSQL успешно
+[14:44:18] 
+----------------------------------
+[14:44:18]  Asterism Role Play 
+[14:44:18] ----------------------------------
+
+[14:44:18] Number of vehicle models: 0
+[14:44:21] [connection] 127.0.0.1:51356 requests connection cookie.
+[14:44:22] [connection] incoming connection: 127.0.0.1:51356 id: 0
+[14:44:32] [connection] incoming connection: 127.0.0.1:51357 id: 0
+[14:44:43] [connection] incoming connection: 127.0.0.1:51358 id: 0
+[14:44:43] [join] Ersa has joined the server (0:127.0.0.1)
+[14:44:44] Password is fgsdgfsd
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:45:46] 
+[14:45:46] Server Plugins
+[14:45:46] --------------
+[14:45:46]  Loading plugin: dc_cmd
+[14:45:46]   Daniel's CMD plugin v2.8
+[14:45:46]     (c) 2014 Daniel_Cortez
+[14:45:46] 	www.pro-pawn.ru
+[14:45:46]   Loaded.
+[14:45:46]  Loading plugin: mysql
+[14:45:46]  >> plugin.mysql: R41-4 successfully loaded.
+[14:45:46]   Loaded.
+[14:45:46]  Loading plugin: sscanf
+[14:45:46] 
+
+[14:45:46]  ===============================
+
+[14:45:46]       sscanf plugin loaded.     
+
+[14:45:46]          Version:  2.8.1        
+
+[14:45:46]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:45:46]  ===============================
+
+[14:45:46]   Loaded.
+[14:45:46]  Loading plugin: streamer
+[14:45:46] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[14:45:46]   Loaded.
+[14:45:46]  Loading plugin: iTD
+[14:45:46] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[14:45:46]   Loaded.
+[14:45:46]  Loading plugin: timerfix
+[14:45:46] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[14:45:46]   Loaded.
+[14:45:46]  Loaded 6 plugins.
+
+[14:45:46] 
+[14:45:46] Filterscripts
+[14:45:46] ---------------
+[14:45:46]   Loading filterscript 'iTDe.amx'...
+[14:45:46] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[14:45:46]   Loaded 1 filterscripts.
+
+[14:45:46] Подключение к базе данных MYSQL успешно
+[14:45:46] 
+----------------------------------
+[14:45:46]  Asterism Role Play 
+[14:45:46] ----------------------------------
+
+[14:45:46] Number of vehicle models: 0
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:45:53] 
+[14:45:53] Server Plugins
+[14:45:53] --------------
+[14:45:53]  Loading plugin: dc_cmd
+[14:45:53]   Daniel's CMD plugin v2.8
+[14:45:53]     (c) 2014 Daniel_Cortez
+[14:45:53] 	www.pro-pawn.ru
+[14:45:53]   Loaded.
+[14:45:53]  Loading plugin: mysql
+[14:45:53]  >> plugin.mysql: R41-4 successfully loaded.
+[14:45:53]   Loaded.
+[14:45:53]  Loading plugin: sscanf
+[14:45:53] 
+
+[14:45:53]  ===============================
+
+[14:45:53]       sscanf plugin loaded.     
+
+[14:45:53]          Version:  2.8.1        
+
+[14:45:53]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:45:53]  ===============================
+
+[14:45:53]   Loaded.
+[14:45:53]  Loading plugin: streamer
+[14:45:53] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[14:45:53]   Loaded.
+[14:45:53]  Loading plugin: iTD
+[14:45:53] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[14:45:53]   Loaded.
+[14:45:53]  Loading plugin: timerfix
+[14:45:53] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[14:45:53]   Loaded.
+[14:45:53]  Loaded 6 plugins.
+
+[14:45:53] 
+[14:45:53] Filterscripts
+[14:45:53] ---------------
+[14:45:53]   Loading filterscript 'iTDe.amx'...
+[14:45:53] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[14:45:53]   Loaded 1 filterscripts.
+
+[14:45:53] Подключение к базе данных MYSQL успешно
+[14:45:53] 
+----------------------------------
+[14:45:53]  Asterism Role Play 
+[14:45:53] ----------------------------------
+
+[14:45:53] Number of vehicle models: 0
+[14:45:56] [connection] 127.0.0.1:33180 requests connection cookie.
+[14:45:57] [connection] incoming connection: 127.0.0.1:33180 id: 0
+[14:45:57] [join] Ersa has joined the server (0:127.0.0.1)
+[14:45:58] Password is gfhjdgh
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:46:48] 
+[14:46:48] Server Plugins
+[14:46:48] --------------
+[14:46:48]  Loading plugin: dc_cmd
+[14:46:48]   Daniel's CMD plugin v2.8
+[14:46:48]     (c) 2014 Daniel_Cortez
+[14:46:48] 	www.pro-pawn.ru
+[14:46:48]   Loaded.
+[14:46:48]  Loading plugin: mysql
+[14:46:48]  >> plugin.mysql: R41-4 successfully loaded.
+[14:46:48]   Loaded.
+[14:46:48]  Loading plugin: sscanf
+[14:46:48] 
+
+[14:46:48]  ===============================
+
+[14:46:48]       sscanf plugin loaded.     
+
+[14:46:48]          Version:  2.8.1        
+
+[14:46:48]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:46:48]  ===============================
+
+[14:46:48]   Loaded.
+[14:46:48]  Loading plugin: streamer
+[14:46:48] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[14:46:48]   Loaded.
+[14:46:48]  Loading plugin: iTD
+[14:46:48] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[14:46:48]   Loaded.
+[14:46:48]  Loading plugin: timerfix
+[14:46:48] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[14:46:48]   Loaded.
+[14:46:48]  Loaded 6 plugins.
+
+[14:46:48] 
+[14:46:48] Filterscripts
+[14:46:48] ---------------
+[14:46:48]   Loading filterscript 'iTDe.amx'...
+[14:46:48] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[14:46:48]   Loaded 1 filterscripts.
+
+[14:46:48] Подключение к базе данных MYSQL успешно
+[14:46:48] 
+----------------------------------
+[14:46:48]  Asterism Role Play 
+[14:46:48] ----------------------------------
+
+[14:46:48] Number of vehicle models: 0
+[14:46:52] [connection] 127.0.0.1:49667 requests connection cookie.
+[14:46:53] [connection] incoming connection: 127.0.0.1:49667 id: 0
+[14:46:53] [join] Ersa has joined the server (0:127.0.0.1)
+[14:46:58] Password is gfdgfddgf
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:47:12] 
+[14:47:12] Server Plugins
+[14:47:12] --------------
+[14:47:12]  Loading plugin: dc_cmd
+[14:47:12]   Daniel's CMD plugin v2.8
+[14:47:12]     (c) 2014 Daniel_Cortez
+[14:47:12] 	www.pro-pawn.ru
+[14:47:12]   Loaded.
+[14:47:12]  Loading plugin: mysql
+[14:47:12]  >> plugin.mysql: R41-4 successfully loaded.
+[14:47:12]   Loaded.
+[14:47:12]  Loading plugin: sscanf
+[14:47:12] 
+
+[14:47:12]  ===============================
+
+[14:47:12]       sscanf plugin loaded.     
+
+[14:47:12]          Version:  2.8.1        
+
+[14:47:12]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:47:12]  ===============================
+
+[14:47:12]   Loaded.
+[14:47:12]  Loading plugin: streamer
+[14:47:12] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[14:47:12]   Loaded.
+[14:47:12]  Loading plugin: iTD
+[14:47:12] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[14:47:12]   Loaded.
+[14:47:12]  Loading plugin: timerfix
+[14:47:12] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[14:47:12]   Loaded.
+[14:47:12]  Loaded 6 plugins.
+
+[14:47:12] 
+[14:47:12] Filterscripts
+[14:47:12] ---------------
+[14:47:12]   Loading filterscript 'iTDe.amx'...
+[14:47:12] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[14:47:12]   Loaded 1 filterscripts.
+
+[14:47:12] Подключение к базе данных MYSQL успешно
+[14:47:12] 
+----------------------------------
+[14:47:12]  Asterism Role Play 
+[14:47:12] ----------------------------------
+
+[14:47:12] Number of vehicle models: 0
+[14:47:15] [connection] 127.0.0.1:49668 requests connection cookie.
+[14:47:16] [connection] incoming connection: 127.0.0.1:49668 id: 0
+[14:47:16] [join] Ersa has joined the server (0:127.0.0.1)
+[14:47:19] Password is fgdklgjd
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:48:33] 
+[14:48:33] Server Plugins
+[14:48:33] --------------
+[14:48:33]  Loading plugin: dc_cmd
+[14:48:33]   Daniel's CMD plugin v2.8
+[14:48:33]     (c) 2014 Daniel_Cortez
+[14:48:33] 	www.pro-pawn.ru
+[14:48:33]   Loaded.
+[14:48:33]  Loading plugin: mysql
+[14:48:33]  >> plugin.mysql: R41-4 successfully loaded.
+[14:48:33]   Loaded.
+[14:48:33]  Loading plugin: sscanf
+[14:48:33] 
+
+[14:48:33]  ===============================
+
+[14:48:33]       sscanf plugin loaded.     
+
+[14:48:33]          Version:  2.8.1        
+
+[14:48:33]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:48:33]  ===============================
+
+[14:48:33]   Loaded.
+[14:48:33]  Loading plugin: streamer
+[14:48:33] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[14:48:33]   Loaded.
+[14:48:33]  Loading plugin: iTD
+[14:48:33] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[14:48:33]   Loaded.
+[14:48:33]  Loading plugin: timerfix
+[14:48:33] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[14:48:33]   Loaded.
+[14:48:33]  Loaded 6 plugins.
+
+[14:48:33] 
+[14:48:33] Filterscripts
+[14:48:33] ---------------
+[14:48:33]   Loading filterscript 'iTDe.amx'...
+[14:48:33] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[14:48:33]   Loaded 1 filterscripts.
+
+[14:48:33] Подключение к базе данных MYSQL успешно
+[14:48:33] 
+----------------------------------
+[14:48:33]  Asterism Role Play 
+[14:48:33] ----------------------------------
+
+[14:48:33] Number of vehicle models: 0
+[14:48:33] [connection] 127.0.0.1:32478 requests connection cookie.
+[14:48:34] [connection] incoming connection: 127.0.0.1:32478 id: 0
+[14:48:35] [join] Ersa has joined the server (0:127.0.0.1)
+[14:48:36] Password is fgdgkdfl
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:55:20] 
+[14:55:20] Server Plugins
+[14:55:20] --------------
+[14:55:20]  Loading plugin: dc_cmd
+[14:55:20]   Daniel's CMD plugin v2.8
+[14:55:20]     (c) 2014 Daniel_Cortez
+[14:55:20] 	www.pro-pawn.ru
+[14:55:20]   Loaded.
+[14:55:20]  Loading plugin: mysql
+[14:55:20]  >> plugin.mysql: R41-4 successfully loaded.
+[14:55:20]   Loaded.
+[14:55:20]  Loading plugin: sscanf
+[14:55:20] 
+
+[14:55:20]  ===============================
+
+[14:55:20]       sscanf plugin loaded.     
+
+[14:55:20]          Version:  2.8.1        
+
+[14:55:20]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:55:20]  ===============================
+
+[14:55:20]   Loaded.
+[14:55:20]  Loading plugin: streamer
+[14:55:20] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[14:55:20]   Loaded.
+[14:55:20]  Loading plugin: iTD
+[14:55:20] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[14:55:20]   Loaded.
+[14:55:20]  Loading plugin: timerfix
+[14:55:20] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[14:55:20]   Loaded.
+[14:55:20]  Loaded 6 plugins.
+
+[14:55:20] 
+[14:55:20] Filterscripts
+[14:55:20] ---------------
+[14:55:20]   Loading filterscript 'iTDe.amx'...
+[14:55:20] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[14:55:20]   Loaded 1 filterscripts.
+
+[14:55:20] Подключение к базе данных MYSQL успешно
+[14:55:20] 
+----------------------------------
+[14:55:20]  Asterism Role Play 
+[14:55:20] ----------------------------------
+
+[14:55:20] Number of vehicle models: 0
+[14:55:26] [connection] 127.0.0.1:38916 requests connection cookie.
+[14:55:27] [connection] incoming connection: 127.0.0.1:38916 id: 0
+[14:55:37] [connection] incoming connection: 127.0.0.1:38917 id: 0
+[14:55:37] [join] Ersa has joined the server (0:127.0.0.1)
+[14:55:40] Password is ghdjgfhs
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[14:58:22] 
+[14:58:22] Server Plugins
+[14:58:22] --------------
+[14:58:22]  Loading plugin: dc_cmd
+[14:58:22]   Daniel's CMD plugin v2.8
+[14:58:22]     (c) 2014 Daniel_Cortez
+[14:58:22] 	www.pro-pawn.ru
+[14:58:22]   Loaded.
+[14:58:22]  Loading plugin: mysql
+[14:58:22]  >> plugin.mysql: R41-4 successfully loaded.
+[14:58:22]   Loaded.
+[14:58:22]  Loading plugin: sscanf
+[14:58:22] 
+
+[14:58:22]  ===============================
+
+[14:58:22]       sscanf plugin loaded.     
+
+[14:58:22]          Version:  2.8.1        
+
+[14:58:22]    (c) 2012 Alex "Y_Less" Cole  
+
+[14:58:22]  ===============================
+
+[14:58:22]   Loaded.
+[14:58:22]  Loading plugin: streamer
+[14:58:22] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[14:58:22]   Loaded.
+[14:58:22]  Loading plugin: iTD
+[14:58:22] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[14:58:22]   Loaded.
+[14:58:22]  Loading plugin: timerfix
+[14:58:22] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[14:58:22]   Loaded.
+[14:58:22]  Loaded 6 plugins.
+
+[14:58:22] 
+[14:58:22] Filterscripts
+[14:58:22] ---------------
+[14:58:22]   Loading filterscript 'iTDe.amx'...
+[14:58:22] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[14:58:22]   Loaded 1 filterscripts.
+
+[14:58:22] Подключение к базе данных MYSQL успешно
+[14:58:22] 
+----------------------------------
+[14:58:22]  Asterism Role Play 
+[14:58:22] ----------------------------------
+
+[14:58:22] Number of vehicle models: 0
+[14:58:25] [connection] 127.0.0.1:13229 requests connection cookie.
+[14:58:26] [connection] incoming connection: 127.0.0.1:13229 id: 0
+[14:58:27] [join] Ersa has joined the server (0:127.0.0.1)
+[14:58:28] Password is gfdkgslj
+
+----------
+Loaded log file: "server_log.txt".
+----------
+
+SA-MP Dedicated Server
+----------------------
+v0.3.7-R2, (C)2005-2015 SA-MP Team
+
+[15:00:50] 
+[15:00:50] Server Plugins
+[15:00:50] --------------
+[15:00:50]  Loading plugin: dc_cmd
+[15:00:50]   Daniel's CMD plugin v2.8
+[15:00:50]     (c) 2014 Daniel_Cortez
+[15:00:50] 	www.pro-pawn.ru
+[15:00:50]   Loaded.
+[15:00:50]  Loading plugin: mysql
+[15:00:50]  >> plugin.mysql: R41-4 successfully loaded.
+[15:00:50]   Loaded.
+[15:00:50]  Loading plugin: sscanf
+[15:00:50] 
+
+[15:00:50]  ===============================
+
+[15:00:50]       sscanf plugin loaded.     
+
+[15:00:50]          Version:  2.8.1        
+
+[15:00:50]    (c) 2012 Alex "Y_Less" Cole  
+
+[15:00:50]  ===============================
+
+[15:00:50]   Loaded.
+[15:00:50]  Loading plugin: streamer
+[15:00:50] 
+
+*** Streamer Plugin v2.7.9 by Incognito loaded ***
+
+[15:00:50]   Loaded.
+[15:00:50]  Loading plugin: iTD
+[15:00:50] 
+* iTD Plugin loaded. (Support for textdraw editor mouse/keyboard)
+
+[15:00:50]   Loaded.
+[15:00:50]  Loading plugin: timerfix
+[15:00:50] [Timer Fix plugin] by KashCherry loaded. Version: 1.1
+[15:00:50]   Loaded.
+[15:00:50]  Loaded 6 plugins.
+
+[15:00:50] 
+[15:00:50] Filterscripts
+[15:00:50] ---------------
+[15:00:50]   Loading filterscript 'iTDe.amx'...
+[15:00:50] 
+	iPLEOMAX's TextDraw Editor loaded successfully!
+	Version: 1.16 Stable (13/10/2012)
+
+[15:00:50]   Loaded 1 filterscripts.
+
+[15:00:50] Подключение к базе данных MYSQL успешно
+[15:00:50] 
+----------------------------------
+[15:00:50]  Asterism Role Play 
+[15:00:50] ----------------------------------
+
+[15:00:50] Number of vehicle models: 0
+[15:00:53] [connection] 127.0.0.1:44721 requests connection cookie.
+[15:00:54] [connection] incoming connection: 127.0.0.1:44721 id: 0
+[15:01:04] [connection] incoming connection: 127.0.0.1:44722 id: 0
+[15:01:14] [connection] incoming connection: 127.0.0.1:44723 id: 0
+[15:01:15] [join] Ersa has joined the server (0:127.0.0.1)
+[15:01:17] Password is dfssdf

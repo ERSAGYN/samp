@@ -8,6 +8,7 @@
 #include <objects>
 #include <actors>
 #include <a_mail> //Возможно удалить
+#include <textdraws>//В конец чтобы define'ы работали возможно в самый низ
 
 #define MYSQL_HOST "localhost"
 #define MYSQL_USER "root"
@@ -27,9 +28,15 @@
 #define dialogid_register 0
 #define dialogid_login 1
 #define dialogid_email 2
+#define dialogid_inviter 3
+#define dialogid_gender 4
 #define dialogid_invalidpass 101
 #define dialogid_wrongpass 100
 #define dialogid_invalidmail 102
+
+//---------------------------------VIRTUAL WORLD ID's---------------------------------------------
+#define vw_regskin 1
+
 
 enum pInfo
 {
@@ -37,6 +44,9 @@ enum pInfo
 	pName[MAX_PLAYER_NAME],
 	pPassword[17],
 	pMail[38],
+	pInviter[MAX_PLAYER_NAME],
+	pGender,
+	pSkin,
 	pRegDate[10],
 	pRegTime[8],
 	pRegIp[16],
@@ -47,6 +57,7 @@ enum pInfo
 }
 new playerinfo[MAX_PLAYERS][pInfo];
 new MySQL:dbConnection;
+new RegSkins[5];
 
 main()
 {
@@ -59,7 +70,8 @@ public OnGameModeInit()
 {
 	mysql_connects(); // Соединение с базой данных в стоке
 	SetGameModeText("Asterism Role Play");
-	AddPlayerClass(0, 1958.3783, 1343.1572, 15.3746, 269.1425, 0, 0, 0, 0, 0, 0);
+	AddPlayerClass(0, 0.0, 0.0, 0.0, 0.0,0,0,0,0,0,0); // Без этого не работает setplayerpos
+	//AddPlayerClass(0, 1958.3783, 1343.1572, 15.3746, 269.1425, 0, 0, 0, 0, 0, 0);
 	ObjectLoad(); //Загрузка объектов/маппинга
 	ActorLoad(); // Загрузка NPC
 	//SendMail("gamewhisersa@gmail.com", "ersagyn0@gmail.com", "ERSA", "Здрастье мордасте", "ЗАДРАСТЬЕ МОРАДАСТЬЕ");
@@ -296,6 +308,27 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 			mysql_format(dbConnection, query, sizeof(query), "SELECT * FROM `accounts` WHERE `email` = '%s' LIMIT 1", clear_inputtext);
          	mysql_tquery(dbConnection, query, "check_existence_mail", "ds", playerid, clear_inputtext);
 		}
+		case dialogid_inviter:
+		{
+			if(!response || !strlen(clear_inputtext)) return SPD(playerid, dialogid_gender, DSM, "Пол", "Что-то про пол", "Мужской", "Женский"); //хахой нибудь дальше;
+			strmid(playerinfo[playerid][pInviter], clear_inputtext, 0, strlen(clear_inputtext), MAX_PLAYER_NAME);
+			SPD(playerid, dialogid_gender, DSM, "Пол", "Что-то про пол", "Мужской", "Женский");
+		}
+		case dialogid_gender:
+		{
+			if(response)
+			{
+			    playerinfo[playerid][pGender] = 1;
+			    RegSkins = {78,79,137,212,230};
+			}
+			else
+			{
+				playerinfo[playerid][pGender] = 2;
+				RegSkins = {77,196,218,197,10};
+			}
+			TD_SelectSkin(playerid); // ИЗМЕНИТЬ УДАЛИТЬ
+			select_skin(playerid);
+		}
 		case dialogid_invalidpass:
 		{
 			if(response) SPD(playerid, dialogid_register, DSI, "Регистрация", "Что-то регистрация", "Далее", "Отмена");
@@ -313,6 +346,42 @@ public OnDialogResponse(playerid, dialogid, response, listitem, inputtext[])
 public OnPlayerClickPlayer(playerid, clickedplayerid, source)
 {
 	return 1;
+}
+public OnPlayerClickTextDraw(playerid, Text:clickedid)
+{
+	if(clickedid == SelectSkin0)
+	{
+	    SetPVarInt(playerid, "RegSkins", GetPVarInt(playerid,"RegSkins")-1);
+	    if(GetPVarInt(playerid, "RegSkins") == -1) SetPVarInt(playerid, "RegSkins", 4);
+	    SetPlayerSkin(playerid, RegSkins[GetPVarInt(playerid, "RegSkins")]);
+	}
+	if(clickedid == SelectSkin1)
+	{
+	    SetPVarInt(playerid, "RegSkins", GetPVarInt(playerid,"RegSkins")+1);
+	    if(GetPVarInt(playerid, "RegSkins") == 5) SetPVarInt(playerid, "RegSkins", 0);
+	    SetPlayerSkin(playerid, RegSkins[GetPVarInt(playerid, "RegSkins")]);
+	}
+	if(clickedid == SelectSkin2)
+	{
+		playerinfo[playerid][pSkin] = RegSkins[GetPVarInt(playerid, "RegSkins")];
+		SetPlayerVirtualWorld(playerid, 0);
+		TogglePlayerControllable(playerid, 1);
+		SetCameraBehindPlayer(playerid);
+		CancelSelectTextDraw(playerid);
+		TextDrawHideForPlayer(playerid, SelectSkin0);
+		TextDrawHideForPlayer(playerid, SelectSkin1);
+		TextDrawHideForPlayer(playerid, SelectSkin2);
+	}
+	return 0;
+}
+public OnPlayerClickPlayerTextDraw(playerid, PlayerText:playertextid)
+{
+	return 0;
+}
+public OnPlayerClickMap(playerid, Float:fX, Float:fY, Float:fZ)
+{
+    SetPlayerPosFindZ(playerid, fX, fY, fZ);
+    return 1;
 }
 //====================================[ FORWARDS AND PUBLICS ]==========================================
 forward player_connect(playerid); // При подключении аккаунта
@@ -332,12 +401,12 @@ public check_existence(playerid) // Проверка на существование аккаунта
 	{
 		case 0:
 		{
-			SPD(playerid, dialogid_register, DIALOG_STYLE_INPUT, "Регистрация", "Что-то регистрация", "Далее", "Отмена");
+			SPD(playerid, dialogid_register, DSI, "Регистрация", "Что-то регистрация", "Далее", "Отмена");
 		}
 		case 1:
 		{
 		    cache_get_value_name(2, "password", playerinfo[playerid][pPassword]);
-		    SPD(playerid, dialogid_login, DIALOG_STYLE_PASSWORD, "Авторизация", "Что то авторизация", "Далее", "Отмена");
+		    SPD(playerid, dialogid_login, DSP, "Авторизация", "Что то авторизация", "Далее", "Отмена");
 		}
 	}
 }
@@ -349,6 +418,7 @@ public check_existence_mail(playerid, clear_inputtext[])
 		case 0:
 		{
 			strmid(playerinfo[playerid][pMail], clear_inputtext, 0, strlen(clear_inputtext), 38);
+			SPD(playerid, dialogid_inviter, DSI, "Приглашение", "Что-то про приглос", "Далее", "Пропустить");
 		}
 		case 1:
 		{
@@ -375,9 +445,62 @@ stock spawn_player(playerid)
 {
 	if(playerinfo[playerid][pLoggedIn])
 	{
-		SetSpawnInfo(playerid, 255, 0, 10, 10, 10, 0, 30, 999, 0, 0, 0, 0); // Изменить на место проживания или проверки на фракцию сделать
+		//SetSpawnInfo(playerid, 255, 0, 10, 10, 10, 0, 30, 999, 0, 0, 0, 0); // Изменить на место проживания или проверки на фракцию сделать
 		TogglePlayerSpectating(playerid, 0);
 		SpawnPlayer(playerid);
 	}
 }
+stock GetPlayerCameraLookAt(playerid, &Float:X, &Float:Y, &Float:Z)
+{
+	new Float:CamX, Float:CamY, Float:CamZ, Float:FrX, Float:FrY, Float:FrZ;
+	GetPlayerCameraPos(playerid, CamX, CamY, CamZ);
+	GetPlayerCameraFrontVector(playerid, FrX, FrY, FrZ);
+	X = FrX + CamX;
+	Y = FrY + CamY;
+	Z = FrZ + CamZ;
+}
+stock select_skin(playerid)
+{
+    SetPlayerVirtualWorld(playerid, vw_regskin);
+	SetSpawnInfo(playerid, 255, 0, 1628.5,-2325.13,13.5469,270.0, 0, 0, 0, 0, 0, 0);
+   	TogglePlayerSpectating(playerid, 0);
+	SetPlayerPos(playerid, 1628.5,-2325.13,13.5469);
+	SetPlayerCameraPos(playerid, 1633.0, -2325.3, 14.5);
+	SetPlayerCameraLookAt(playerid, 1632.0, -2325.25, 14.4);
+	SetPlayerSkin(playerid, RegSkins[0]);
+	SetPVarInt(playerid, "RegSkins", 0);
+	TogglePlayerControllable(playerid, 0);
+}
 //====================================[ COMMANDS ]==========================================
+CMD:tempspawn(playerid)//УДАЛИТЬ ИЗМЕНИТЬ
+{
+	playerinfo[playerid][pLoggedIn] = true;
+	spawn_player(playerid);
+}
+CMD:tempcameralookat(playerid) // УДАЛИТЬ ИЗМЕНИТЬ
+{
+	new Float: fVX, Float: fVY, Float: fVZ, string[64];
+	GetPlayerCameraLookAt(playerid, fVX, fVY, fVZ);
+	format(string, sizeof(string), "Ваша камера смотрит в: %f , %f , %f",fVX, fVY, fVZ);
+	SCM(playerid, -1, string);
+	GetPlayerCameraPos(playerid, fVX, fVY, fVZ);
+	format(string, sizeof(string), "Ваша камера стоит на: %f , %f , %f",fVX, fVY, fVZ);
+	SCM(playerid, -1, string);
+}
+CMD:temppos(playerid) // УДАЛИТЬ ИЗМЕНИТЬ
+{
+	new Float: fVX, Float: fVY, Float: fVZ, string[64];
+	GetPlayerPos(playerid, fVX, fVY, fVZ);
+	format(string, sizeof(string), "Ты стоишь на: %f , %f , %f",fVX, fVY, fVZ);
+	SCM(playerid, -1, string);
+}
+CMD:tempsetpos(playerid, params[]) // УДАЛИТЬ ИЗМЕНИТЬ
+{
+	new Float: x, Float: y, Float: z, string[64];
+	if(sscanf(params,"fff",x,y,z)) return SCM(playerid,0xFFFFFFAA,"Используйте /makeadmin [ID игрока] [LVL админки]");
+	SetPlayerPos(playerid, x,y,z);
+	format(string, sizeof(string), "Ты телепорирован на: %f , %f , %f",x,y,z);
+	SCM(playerid, -1, string);
+	return 1;
+}
+
